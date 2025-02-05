@@ -399,8 +399,6 @@ https://video.mytvsuper.xyz/live/b31627137c4b6a0403ac6939a797bb13a67b0f8a352d018
 https://video.mytvsuper.xyz/live/fc769a1a0d2c3a747a19e76c70db193686e6c6a1676661028054307f00523b23.m3u8?token=683950868883741
 #EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.v1.mk/logo/MEZZOLIVEHD.png" group-title="香港频道「免梯」",Mezzo Live HD
 https://video.mytvsuper.xyz/live/68bdc8a3dcd99d24021d1f3c452eb64dd70b53514e40ce14bc5b261966ed80f2.m3u8?token=683950868883741
-#EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="香港频道「免梯」",myTV SUPER 18台
-https://video.mytvsuper.xyz/live/15e23cd5b0c5f6ca2124095f4bbf99dbe18a79b2f09d57536463c54e8e55be6d.m3u8?token=683950868883741
 #EXTINF:-1,tvg-id="NHKWORLDJAPAN" tvg-name="NHKWORLDJAPAN" tvg-logo="https://epg.v1.mk/logo/NHKWORLDJAPAN.png" group-title="香港频道「免梯」",NHK World-Japan
 https://video.mytvsuper.xyz/live/3bbc696eb85f050da5f5b3c40b14203228beaed1e75d0a64626affd02924dacb.m3u8?token=683950868883741
 #EXTINF:-1,tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://epg.v1.mk/logo/NICKJR.png" group-title="香港频道「免梯」",Nick Jr.
@@ -427,8 +425,6 @@ https://video.mytvsuper.xyz/live/e8c41fd17bdcc5922d0c3c7f5eb54e968a6011307ab8aa6
 https://video.mytvsuper.xyz/live/b4466b7e1bbe1f8f1e0d32a7269879c04efd0cb0fb8ec3b75cafad5a9d37bd1b.m3u8?token=683950868883741
 #EXTINF:-1,tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="https://epg.v1.mk/logo/CCTV-11戏曲.png" group-title="香港频道「免梯」",戲曲台
 https://video.mytvsuper.xyz/live/267c9040a83dd398c1c65f44aa97c44a3a4022d81afe2746a5294d68c9620db8.m3u8?token=683950868883741
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="香港频道「免梯」",東方衛視國際頻道
-https://video.mytvsuper.xyz/live/fbaa7f32f0400e8d1a73d60b9ee91912123508d0a91ba8903f420f5950a5fdd7.m3u8?token=683950868883741
 #EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="香港频道「免梯」",無線衛星亞洲台
 https://video.mytvsuper.xyz/live/c9ee3a32a2e49449e56ab9e5ecdac7ef638bf04f95a4f6b90d8d9e2a094a4454.m3u8?token=683950868883741
 
