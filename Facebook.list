@@ -1,6 +1,14 @@
 # NAME: Facebook
 # AUTHOR: Jasoncx2025
 
+# Facebook
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Facebook/Facebook.list
+# UPDATED: 2024-07-03 16:16:11
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 544
+# IP-ASN: 1
+# IP-CIDR: 23
+# TOTAL: 570
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,accountkit.com
