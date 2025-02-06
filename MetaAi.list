@@ -1,6 +1,7 @@
 # NAME: Global
 # AUTHOR: Jasoncx2025
-DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
 
 # Instagram
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Instagram/Instagram.list
