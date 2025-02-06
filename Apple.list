@@ -1,6 +1,15 @@
 # NAME: Apple
 # AUTHOR: Jasoncx2025
 
+# Apple
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+# UPDATED: 2025-02-06 02:12:14
+# DOMAIN: 10
+# DOMAIN-KEYWORD: 7
+# DOMAIN-SUFFIX: 1549
+# IP-CIDR: 10
+# PROCESS-NAME: 13
+# TOTAL: 1589
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
