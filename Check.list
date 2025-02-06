@@ -1,3 +1,8 @@
+# NAME: Check
+# AUTHOR: Jasoncx2025
+
+# Check
+# https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Check.list
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedcheck.org
