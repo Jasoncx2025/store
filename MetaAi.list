@@ -1,3 +1,14 @@
 # NAME: Global
 # AUTHOR: Jasoncx2025
 DOMAIN-SUFFIX,meta.com
+
+# Instagram
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Instagram/Instagram.list
+# UPDATED: 2024-07-03 16:16:12
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,instagram
