@@ -10,7 +10,14 @@ DOMAIN-SUFFIX,pikpak.com
 DOMAIN-SUFFIX,umate.me
 DOMAIN-SUFFIX,resource.umate.me
 DOMAIN-SUFFIX,o0ous.o0o0o0o0o0o.top
-
+IP-CIDR,216.239.32.223/32,no-resolve
+IP-CIDR,216.239.34.223/32,no-resolve
+IP-CIDR,216.239.36.223/32,no-resolve
+IP-CIDR,216.239.38.223/32,no-resolve
+IP-CIDR6,2001:4860:4802:32::223/48,no-resolve
+IP-CIDR6,2001:4860:4802:34::223/48,no-resolve
+IP-CIDR6,2001:4860:4802:36::223/48,no-resolve
+IP-CIDR6,2001:4860:4802:38::223/48,no-resolve
 
 # liandu2024
 # https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Proxy.list
