@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,umate.me
 DOMAIN-SUFFIX,resource.umate.me
 DOMAIN-SUFFIX,o0ous.o0o0o0o0o0o.top
 DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,sora.com
 IP-CIDR,216.239.32.223/32,no-resolve
 IP-CIDR,216.239.34.223/32,no-resolve
 IP-CIDR,216.239.36.223/32,no-resolve
