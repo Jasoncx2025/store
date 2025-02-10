@@ -1,8 +1,7 @@
 # NAME: OpenAi Bard anthropic
 # AUTHOR: Jasoncx2025
 
-# OpenAi Bard anthropic
-# https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/AI.list
+# OpenAi OpenAi Bard anthropic
 # 域名关键字匹配
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
@@ -37,6 +36,7 @@ DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,genspark.ai
 
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
