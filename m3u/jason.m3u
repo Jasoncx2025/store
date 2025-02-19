@@ -745,8 +745,6 @@ https://video.mytvsuper.xyz/live/ae6584ed3e02e19ea61e005d26a9e7bb3406b589c89d24d
 https://video.mytvsuper.xyz/live/9a0439c00b89408428857b6ccc4500fac21e9e6fb1709982fd4f3f6968545c2f.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="台湾频道",好消息
 https://video.mytvsuper.xyz/live/6c19e466c0065ba5a4eca352d65eb10ba217155812133182817c8d315ba08c34.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="台湾频道",ELTV生活英語台
-https://video.mytvsuper.xyz/live/7d81efae8cba0046639e5e63ce70c1de360d63209892c85ff87247cde63b42e3.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="台湾频道",亞洲旅遊台
 https://video.mytvsuper.xyz/live/aa12bc287324a6c53f1e1e335750893c714875aa7ea7cd864a5da2cd154e84ea.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="台湾频道",中天亞洲精采台
@@ -759,27 +757,7 @@ https://video.mytvsuper.xyz/live/c2a2b0a41ddb556f2123d42c6d5d9cd7d3bc9983e74b75c
 https://video.mytvsuper.xyz/live/3a20b46946fe42fd15b6f452368d8dd604b72042ce676ee1593ef435811eeb5d.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="台湾频道",社會NOW什麼
 https://video.mytvsuper.xyz/live/eb471242a4111fd1641dd29e5fa266f18206dacaa590a179728d64b2cb7062fd.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3410_ofiii86_tv_20240731.png" group-title="台湾频道",倪珍報星座
-https://video.mytvsuper.xyz/live/c5e3df55f53f9e0bc388366fd68294adbface8b19fec5a74064744ee3a95259e.m3u8?token=683950868802619
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="台湾频道",Yes娛樂
-https://video.mytvsuper.xyz/live/c88d08782d5e5c0b07b61618be6e02bdd957ada99d9961e92cac43331507829b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="台湾频道",掏掏新聞
-https://video.mytvsuper.xyz/live/4d3b5136792bcca42e29b780a115ad894b1f5eb60353625de929524f70d7b4b3.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png" group-title="台湾频道",柯文哲政治風波
-https://video.mytvsuper.xyz/live/629c1cfb5d9ac901f0155bc37c1a5ef0f4f0068c9ce9659ad61d5619c1a10751.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="台湾频道",華視新聞
-https://video.mytvsuper.xyz/live/36c7a5fe600c58df9421e1c66981f2956d1e7a8d20e9a9bf87fd6d4aee695b31.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="台湾频道",倪珍播新聞
-https://video.mytvsuper.xyz/live/8ea8f6d1d30c34b15dc81ce2bf51654f299d1fec3240f451737aa057994ae9ed.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="台湾频道",三立新聞iNEWS
-https://video.mytvsuper.xyz/live/83554ba6a364cf271c25dc9633bd3571721da8ab4fecdc3a690ce2a292e98f3f.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="台湾频道",國際大小事
-https://video.mytvsuper.xyz/live/2c44645e728c3e21f2946aa8688dac0ec969fed05ec863d1da63dd4036e45ffb.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="台湾频道",寰宇財經台
-https://video.mytvsuper.xyz/live/7c91a6ada94f6afde93c9618c725fb8ec517dc1508c806fac229773fbd4b006f.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3561_ofiii58_tv_20241202.png" group-title="台湾频道",台灣驕傲！感動不間斷
-https://video.mytvsuper.xyz/live/3a23a1b42bacd0caef2ae9b50476ea23ae7a5e5c3d880f6cb6b0abd33fe64004.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="台湾频道",台視新聞
 https://video.mytvsuper.xyz/live/95c4d92f73838e5f7d9bd5bf041ad13da687399eafdba4e455aa2ef67fe33dc2.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="台湾频道",中視新聞
@@ -794,8 +772,6 @@ https://video.mytvsuper.xyz/live/040972130764e8e30ad67db3b04f0c4c3bb5c3778cbffd2
 https://video.mytvsuper.xyz/live/96efb1b6728397e01fbcc00a62053d441d0d5c66071d69207057acd2d1a86ac7.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="台湾频道",第1商業台
 https://video.mytvsuper.xyz/live/f0f7840d272170c0ce49dfdf766fe0a95ecba5137ad3822adab5074bc5a2cb87.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="台湾频道",倪珍英語新聞
-https://video.mytvsuper.xyz/live/5b9758f8f89e086c96657a779e8587d60d15f41388328f57f68f71f344cd6d8b.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="台湾频道",大新聞大爆卦
 https://video.mytvsuper.xyz/live/b50c714e1ddfab4ce9bbd45722c8dbd2a5a222b84900aeb60faf0adf9b79812e.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="台湾频道",新聞大白話
@@ -840,94 +816,13 @@ https://video.mytvsuper.xyz/live/cac6919fb702a4cec3c82152d2c4a232d16791259fb8d31
 https://video.mytvsuper.xyz/live/0ff710256924ec2eb41759ec53442546de04a2a86e1036975d051398eca022b1.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="台湾频道",龍華日韓台
 https://video.mytvsuper.xyz/live/5a5560296d791584a6bb636ac92ddd9075ffaa1c72e1cb8bd6d170d188064fb8.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="台湾频道",Focus風采戲劇台
-https://video.mytvsuper.xyz/live/d85e86133b4f2921567ab11fd3963cd4f4d9a64209ce6f5ee658b688a9c57035.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png" group-title="台湾频道",錦繡安寧
-https://video.mytvsuper.xyz/live/2755367deecbde18d3328dedec8032938e911d2ab2840c4cefacfbdfc16bacf8.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png" group-title="台湾频道",琅琊榜
-https://video.mytvsuper.xyz/live/2db47fd86da2233ffdcfac67f096769013fe641dee95c77ee969077f67dfa7ee.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3355_ofiii102_tv_20240531.png" group-title="台湾频道",扶搖
-https://video.mytvsuper.xyz/live/1082b9882f9bd8caafca538221ccedc4865c9726666c5080c5d7b421b1d27c3b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png" group-title="台湾频道",三國
-https://video.mytvsuper.xyz/live/7eae8855fb98c026e160bdf1929b6cccfdb9208eddb86418805c142781b1d8bc.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20240731.png" group-title="台湾频道",武媚娘傳奇
-https://video.mytvsuper.xyz/live/89432dcf995c59cb5a964a4169fcbc4d817fd0efe576d5240416e0b73bc77175.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png" group-title="台湾频道",長樂曲
-https://video.mytvsuper.xyz/live/31de2e81896829270b06267241c06f9bcfb5c22509a7a3f5f87499d7ea006cff.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png" group-title="台湾频道",軍師聯盟
-https://video.mytvsuper.xyz/live/73cefea227d1ebe182a27ebb06468c3a5947dac478afa5a706dba41247240fce.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20230920.png" group-title="台湾频道",軍師聯盟2 虎嘯龍吟
-https://video.mytvsuper.xyz/live/1247d249d3bbdeff71a472fe8c5eb1406f07cae3e2468566b8e6860ce9347f13.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png" group-title="台湾频道",東宮(完整版)
-https://video.mytvsuper.xyz/live/d5b0cd229b45fd1b98df6c15254e0a56a9ec30a83d7d3031b8ccbc38af219f36.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3112_ofiii109_tv_20231019.png" group-title="台湾频道",錦衣之下
-https://video.mytvsuper.xyz/live/d5dc46ff84dcfb2bf41430b386964b0cc6e0a8f86a815d20a3efcb8ffb3af7b5.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png" group-title="台湾频道",楚喬傳
-https://video.mytvsuper.xyz/live/effbcb75c907dcf69854f196e1d7968e45237b792ec44f3b8cee697a7ac78dac.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png" group-title="台湾频道",倚天屠龍記 2019
-https://video.mytvsuper.xyz/live/42effc6bce1c582f3e6e9039d4a2baa633d16b70c8a5fad12d092ba60cf68ea3.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png" group-title="台湾频道",披荊斬棘的大小姐
-https://video.mytvsuper.xyz/live/574c3b817a327551f81a3dea9b966764e34452f7f6db8859f6df48cc4061c447.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png" group-title="台湾频道",步步驚心
-https://video.mytvsuper.xyz/live/cea71db74318630e4c999a4fc52204451d7f17e04040fc926471184c49411db4.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3512_ofiii120_tv_20241104.png" group-title="台湾频道",漠風吟
-https://video.mytvsuper.xyz/live/ca2ccc3d6a5df2fbdcf0320c99233cfe239c4aa55b0884ee0e69a8a381575c4d.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png" group-title="台湾频道",私藏浪漫
-https://video.mytvsuper.xyz/live/8036cb08d9ecbdb769e1ef6b68ee0ec63e0635a4b3dbcc44f8f4e09144b7f1e8.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="台湾频道",去有風的地方
-https://video.mytvsuper.xyz/live/b247616c5f4927fb57836327215291a3d02214e33458df39544ec7ee5109de86.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png" group-title="台湾频道",以愛為營
-https://video.mytvsuper.xyz/live/35f918d61ac435b828f78e9130e5f8a16fba72cc2551d321811f5f6e719595b5.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png" group-title="台湾频道",向風而行
-https://video.mytvsuper.xyz/live/1a65dffcf672d6ffc58bb01177a3f85aeace446e6fccbe71a1eaa6317a411a14.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png" group-title="台湾频道",以家人之名
-https://video.mytvsuper.xyz/live/a22017eb34666bc8ce841f7547c50f409bac76a294e766fa022137e49d177890.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png" group-title="台湾频道",獵狐
-https://video.mytvsuper.xyz/live/01a5f48c1d14c56a1b91f7540ddeeddee661e65281c95c0f9b0850242b6af61e.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png" group-title="台湾频道",請叫我總監
-https://video.mytvsuper.xyz/live/b2fc32b2355b3d7b8d373c75125510486175706e901878ffbf26c0ba76e6f133.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3513_ofiii123_tv_20241104.png" group-title="台湾频道",司藤
-https://video.mytvsuper.xyz/live/e06d5b005a131eb1a629635a4d43592696302f5ac24a3ee8f4561b382355a1c5.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3477_ofiii124_tv_20240930.png" group-title="台湾频道",他們的奇妙時光
-https://video.mytvsuper.xyz/live/308e10ee16fc5bea69a358c472320e4041df0f72a3c7df46e7fa82ab5286bd21.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20241104.png" group-title="台湾频道",白雪公主非死不可
-https://video.mytvsuper.xyz/live/ef3a692d6fec597bffd7b84b9ea82c79792bae414e07b38fb016b674e0e939a9.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20241104.png" group-title="台湾频道",好搭檔
-https://video.mytvsuper.xyz/live/8c74c19f36a4a0d9dd5602a3d236f68b7463fb832a62382e1b35ebcd0baa4afc.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii148_tv_20230515.png" group-title="台湾频道",頭腦共助
-https://video.mytvsuper.xyz/live/074305794f0d775a0d9bb0819f28d9c3386c8f0ffefb5bc88b4c564fd063c6d1.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20241104.png" group-title="台湾频道",凌晨兩點的灰姑娘
-https://video.mytvsuper.xyz/live/86e588e3f20e511804074f57737f34b68824aced909ed9f5127fb8da7c656c06.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_litv-vchannel146_tv_20240626.png" group-title="台湾频道",台灣靈異事件
-https://video.mytvsuper.xyz/live/8142e515fd1b8bef0b629f84bdde9ce9166ed3e305b9b409a0516d8a83d5e6d1.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20240131.png" group-title="台湾频道",包青天 1993版
-https://video.mytvsuper.xyz/live/86c3d51b4579db08405cb9f9f9efdd5aaa3677113f7842a2f1e7d683c25188cd.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20230823.png" group-title="台湾频道",我的婆婆怎麼那麼可愛
-https://video.mytvsuper.xyz/live/e183b52ecf22a9940c6b54be1693d5085bef27fff9b6aa4e3e2be0cb9799bc3b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20230823.png" group-title="台湾频道",村裡來了個暴走女外科
-https://video.mytvsuper.xyz/live/05bab453abc5d19e6baa7b0b387bce1c726982c4f578d7ae976e34a18832513a.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20230920.png" group-title="台湾频道",一把青
-https://video.mytvsuper.xyz/live/538ca9024c2ca5a50253d0b179e2483f006ebecdb3cbd00ed41429da046f9c2c.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_litv-vchannel142_tv_20231019.png" group-title="台湾频道",茶金
-https://video.mytvsuper.xyz/live/482a510bb75c7b500d5b4d7fc9759b7a727bfaaa891a6b742e272096710850be.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20240930.png" group-title="台湾频道",苦力
-https://video.mytvsuper.xyz/live/f475014f210799fbc76fca744799ca948f72463061717f420c2eb7cae6d13618.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20240531.png" group-title="台湾频道",俗女養成記
-https://video.mytvsuper.xyz/live/21fca5066f3e960391537b8fda5c16d71b6251b80a13ef6a252deb4616de0e14.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20240802.png" group-title="台湾频道",麻醉風暴
-https://video.mytvsuper.xyz/live/8163313e58dffdbc6b3bdece0dc05081b6c007b9126090db61241adec21edc47.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="台湾频道",TVBS食尚玩家
-https://video.mytvsuper.xyz/live/d22ab976d5efd422db0eb7f245f02a6873cd24d02417f23f1be458f5726f1b85.m3u8?token=683950868802619
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="台湾频道",東森娛樂台
 https://video.mytvsuper.xyz/live/0285bc3863553ca60800bdfd1415a6cc0b405506b2050d25b114d016e1889432.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="台湾频道",鄉民大學問
 https://video.mytvsuper.xyz/live/3a20b46946fe42fd15b6f452368d8dd604b72042ce676ee1593ef435811eeb5d.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png" group-title="台湾频道",野球名人房
-https://video.mytvsuper.xyz/live/3c2420fa59bc4d630b10476239e6af3090497d73cd00ab1825e68c095ee46318.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="台湾频道",社會NOW什麼
 https://video.mytvsuper.xyz/live/eb471242a4111fd1641dd29e5fa266f18206dacaa590a179728d64b2cb7062fd.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3410_ofiii86_tv_20240731.png" group-title="台湾频道",倪珍報星座
-https://video.mytvsuper.xyz/live/c5e3df55f53f9e0bc388366fd68294adbface8b19fec5a74064744ee3a95259e.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20240531.png" group-title="台湾频道",豬哥壹級棒
 https://video.mytvsuper.xyz/live/5e79524c8a2f482bd4396526c62e184f080d15467a566d9504bf55b15b295ca3.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3357_ofiii127_tv_20240531.png" group-title="台湾频道",小明星大跟班
