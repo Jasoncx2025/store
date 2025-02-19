@@ -1,6 +1,6 @@
 # NAME: HBO
 # AUTHOR: Jasoncx2025
-DomainSuffix :: discomax.com
+DOMAIN-SUFFIX,discomax.com
 
 # HBO
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
