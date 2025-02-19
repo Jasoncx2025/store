@@ -246,3 +246,392 @@ https://itv.in.6726178.xyz:40080/rtp/239.77.0.100:5146
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.101:5146
 #EXTINF:-1 group-title="自家数字",IPTV法治
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.102:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="熱門收視頻道",台視
+https://video.mytvsuper.xyz/live/5d9a0c3bd245983ddf5b25328d46dafa4feaab15b2b80fce6df925211fd0dad1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="熱門收視頻道",中視
+https://video.mytvsuper.xyz/live/d1805f1158ae62153b98d3f706873239d25edfdeea38707c5d13b3f1c58936f4.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="熱門收視頻道",華視
+https://video.mytvsuper.xyz/live/ae6584ed3e02e19ea61e005d26a9e7bb3406b589c89d24d09cbcd2e1053febb3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="熱門收視頻道",好消息
+https://video.mytvsuper.xyz/live/6c19e466c0065ba5a4eca352d65eb10ba217155812133182817c8d315ba08c34.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="熱門收視頻道",哆啦Ａ夢台
+https://video.mytvsuper.xyz/live/ae21af61f52521d01609e9e4fbed2d2b7528a8d5fd6021d1864fba3999f1aae4.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="熱門收視頻道",亞洲旅遊台
+https://video.mytvsuper.xyz/live/aa12bc287324a6c53f1e1e335750893c714875aa7ea7cd864a5da2cd154e84ea.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="熱門收視頻道",龍華戲劇台
+https://video.mytvsuper.xyz/live/60ace1dc0ab6ca916491bdb9786530719d181519be1d65b3f8c39a5c21e8a6ed.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="熱門收視頻道",台灣戲劇台
+https://video.mytvsuper.xyz/live/cac6919fb702a4cec3c82152d2c4a232d16791259fb8d316e1e61be38de49e52.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" group-title="熱門收視頻道",東森購物1台
+https://video.mytvsuper.xyz/live/1131a3845fb2e6dcba439902b52aa07e18f6cc03e7866c970dd7102974c6e373.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="熱門收視頻道",龍華偶像台
+https://video.mytvsuper.xyz/live/0ff710256924ec2eb41759ec53442546de04a2a86e1036975d051398eca022b1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="熱門收視頻道",龍華日韓台
+https://video.mytvsuper.xyz/live/5a5560296d791584a6bb636ac92ddd9075ffaa1c72e1cb8bd6d170d188064fb8.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="熱門收視頻道",華視新聞
+https://video.mytvsuper.xyz/live/36c7a5fe600c58df9421e1c66981f2956d1e7a8d20e9a9bf87fd6d4aee695b31.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="熱門收視頻道",三立新聞iNEWS
+https://video.mytvsuper.xyz/live/83554ba6a364cf271c25dc9633bd3571721da8ab4fecdc3a690ce2a292e98f3f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="熱門收視頻道",寰宇財經台
+https://video.mytvsuper.xyz/live/7c91a6ada94f6afde93c9618c725fb8ec517dc1508c806fac229773fbd4b006f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="熱門收視頻道",台視新聞
+https://video.mytvsuper.xyz/live/95c4d92f73838e5f7d9bd5bf041ad13da687399eafdba4e455aa2ef67fe33dc2.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="熱門收視頻道",中視新聞
+https://video.mytvsuper.xyz/live/0c2c2bbb7f881d343625dbdffb246206f1c0b1ee1745ccc870f7332b7dee858d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="熱門收視頻道",中天新聞台
+https://video.mytvsuper.xyz/live/53bcda11acc884709dfc9e1886a602a215282df4dc0e7420d6030323d7c68b4b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="熱門收視頻道",寰宇新聞台灣台
+https://video.mytvsuper.xyz/live/e2d4e931d1717441df88ac745afd5dd34b16a31624c9bc474abd39a2fa85058d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="熱門收視頻道",寰宇新聞台
+https://video.mytvsuper.xyz/live/040972130764e8e30ad67db3b04f0c4c3bb5c3778cbffd28321e178cb8cf2f96.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="熱門收視頻道",龍華經典台
+https://video.mytvsuper.xyz/live/26a4eea8eafe0748892719145737e7224433b19ec2299b5c8d55ddb92c10689d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="熱門收視頻道",龍華電影台
+https://video.mytvsuper.xyz/live/a832727ff593228be3e1ef02a0906a0360aaea9821de343236d457a94119432b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="熱門收視頻道",去有風的地方
+https://video.mytvsuper.xyz/live/b247616c5f4927fb57836327215291a3d02214e33458df39544ec7ee5109de86.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="熱門收視頻道",綜藝玩很大
+https://video.mytvsuper.xyz/live/57b6066918b425948e4b83646c7d47824c28dd0cf05e2fce7546ec85ab0f07d5.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="熱門收視頻道",全民星攻略
+https://video.mytvsuper.xyz/live/a5b32bc17e543215a2fc42df0014a0b66b0e60ce4b10e7a2a74bb932b9e284f3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="新聞‧財經",Yes娛樂
+https://video.mytvsuper.xyz/live/c88d08782d5e5c0b07b61618be6e02bdd957ada99d9961e92cac43331507829b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="新聞‧財經",掏掏新聞
+https://video.mytvsuper.xyz/live/4d3b5136792bcca42e29b780a115ad894b1f5eb60353625de929524f70d7b4b3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png" group-title="新聞‧財經",柯文哲政治風波
+https://video.mytvsuper.xyz/live/629c1cfb5d9ac901f0155bc37c1a5ef0f4f0068c9ce9659ad61d5619c1a10751.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="新聞‧財經",華視新聞
+https://video.mytvsuper.xyz/live/36c7a5fe600c58df9421e1c66981f2956d1e7a8d20e9a9bf87fd6d4aee695b31.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞‧財經",倪珍播新聞
+https://video.mytvsuper.xyz/live/8ea8f6d1d30c34b15dc81ce2bf51654f299d1fec3240f451737aa057994ae9ed.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="新聞‧財經",三立新聞iNEWS
+https://video.mytvsuper.xyz/live/83554ba6a364cf271c25dc9633bd3571721da8ab4fecdc3a690ce2a292e98f3f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="新聞‧財經",國際大小事
+https://video.mytvsuper.xyz/live/2c44645e728c3e21f2946aa8688dac0ec969fed05ec863d1da63dd4036e45ffb.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="新聞‧財經",寰宇財經台
+https://video.mytvsuper.xyz/live/7c91a6ada94f6afde93c9618c725fb8ec517dc1508c806fac229773fbd4b006f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3561_ofiii58_tv_20241202.png" group-title="新聞‧財經",台灣驕傲！感動不間斷
+https://video.mytvsuper.xyz/live/3a23a1b42bacd0caef2ae9b50476ea23ae7a5e5c3d880f6cb6b0abd33fe64004.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="新聞‧財經",台視新聞
+https://video.mytvsuper.xyz/live/95c4d92f73838e5f7d9bd5bf041ad13da687399eafdba4e455aa2ef67fe33dc2.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="新聞‧財經",中視新聞
+https://video.mytvsuper.xyz/live/0c2c2bbb7f881d343625dbdffb246206f1c0b1ee1745ccc870f7332b7dee858d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="新聞‧財經",中天新聞台
+https://video.mytvsuper.xyz/live/53bcda11acc884709dfc9e1886a602a215282df4dc0e7420d6030323d7c68b4b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="新聞‧財經",寰宇新聞台灣台
+https://video.mytvsuper.xyz/live/e2d4e931d1717441df88ac745afd5dd34b16a31624c9bc474abd39a2fa85058d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="新聞‧財經",寰宇新聞台
+https://video.mytvsuper.xyz/live/040972130764e8e30ad67db3b04f0c4c3bb5c3778cbffd28321e178cb8cf2f96.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="新聞‧財經",第1財經
+https://video.mytvsuper.xyz/live/96efb1b6728397e01fbcc00a62053d441d0d5c66071d69207057acd2d1a86ac7.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="新聞‧財經",第1商業台
+https://video.mytvsuper.xyz/live/f0f7840d272170c0ce49dfdf766fe0a95ecba5137ad3822adab5074bc5a2cb87.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_tv.png" group-title="新聞‧財經",國會頻道1台
+https://video.mytvsuper.xyz/live/80e052b4c6c1298d861eaab0e92f01a0ea0df10941e6866c9fcfe321e65747d9.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png" group-title="新聞‧財經",國會頻道2台
+https://video.mytvsuper.xyz/live/a6d2dd5770489dcb861052e4109bcff9eec7b9b223ae445c379a8d3b9a12ccde.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞‧財經",倪珍英語新聞
+https://video.mytvsuper.xyz/live/5b9758f8f89e086c96657a779e8587d60d15f41388328f57f68f71f344cd6d8b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="新聞‧財經",大新聞大爆卦
+https://video.mytvsuper.xyz/live/b50c714e1ddfab4ce9bbd45722c8dbd2a5a222b84900aeb60faf0adf9b79812e.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="新聞‧財經",新聞大白話
+https://video.mytvsuper.xyz/live/23ea88744fccecf9c70d375c3e3be9e6de485288cd76e8fe9b65b27745c3f8ac.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png" group-title="新聞‧財經",文茜的世界周報
+https://video.mytvsuper.xyz/live/1bb58b523022b4e77f77183cf42c0527aeda86becf7486dc7361c0c3d1fc27d8.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png" group-title="新聞‧財經",寰宇全視界
+https://video.mytvsuper.xyz/live/2db8353f8540368c66398a97de218313117458d579ff9de08ab3f07aabeb67eb.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png" group-title="新聞‧財經",文茜的世界財經周報
+https://video.mytvsuper.xyz/live/62e502b4ac936d6daa67e2f33a82a9d195833ab70ade4ce16f3da7fdbc3e9f14.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png" group-title="新聞‧財經",環球大戰線
+https://video.mytvsuper.xyz/live/a333bd3f6ae9011cbcfe0a2763643a283354866fd8c35636dfff4f91eec95c0f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png" group-title="新聞‧財經",少康戰情室
+https://video.mytvsuper.xyz/live/0b340c23244c000fbdf0eaf6d1bdd3ea2cd6b2f07af5a68a145e8ab31393def9.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png" group-title="新聞‧財經",國民大會
+https://video.mytvsuper.xyz/live/78a9529830157952ce5e1f5a653cfcec8fbf3ac46a3d3b9abb4c017785f625b2.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="綜合",台視
+https://video.mytvsuper.xyz/live/5d9a0c3bd245983ddf5b25328d46dafa4feaab15b2b80fce6df925211fd0dad1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="綜合",中視
+https://video.mytvsuper.xyz/live/d1805f1158ae62153b98d3f706873239d25edfdeea38707c5d13b3f1c58936f4.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="綜合",華視
+https://video.mytvsuper.xyz/live/ae6584ed3e02e19ea61e005d26a9e7bb3406b589c89d24d09cbcd2e1053febb3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="綜合",好消息2台
+https://video.mytvsuper.xyz/live/9a0439c00b89408428857b6ccc4500fac21e9e6fb1709982fd4f3f6968545c2f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="綜合",好消息
+https://video.mytvsuper.xyz/live/6c19e466c0065ba5a4eca352d65eb10ba217155812133182817c8d315ba08c34.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="綜合",ELTV生活英語台
+https://video.mytvsuper.xyz/live/7d81efae8cba0046639e5e63ce70c1de360d63209892c85ff87247cde63b42e3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="綜合",亞洲旅遊台
+https://video.mytvsuper.xyz/live/aa12bc287324a6c53f1e1e335750893c714875aa7ea7cd864a5da2cd154e84ea.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="綜合",中天亞洲精采台
+https://video.mytvsuper.xyz/live/a08adda3136b183d4d752680ce4d17c57438804dc3de419f5486b540658cbb4b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="綜合",Smart知識台
+https://video.mytvsuper.xyz/live/71b78636ffe58af5a6bd1169f773c1e337db4ba3b05cab5cb9f205f378203e7c.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" group-title="綜合",東森購物1台
+https://video.mytvsuper.xyz/live/1131a3845fb2e6dcba439902b52aa07e18f6cc03e7866c970dd7102974c6e373.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" group-title="綜合",東森購物2台
+https://video.mytvsuper.xyz/live/0192363af24ee5b4b6e94f9a92cc4915314fc2951596e794f8e71190a590e8bc.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="綜合",Focus探索新知台
+https://video.mytvsuper.xyz/live/c2a2b0a41ddb556f2123d42c6d5d9cd7d3bc9983e74b75cf0838c586b28dbd50.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="綜合",鄉民大學問
+https://video.mytvsuper.xyz/live/3a20b46946fe42fd15b6f452368d8dd604b72042ce676ee1593ef435811eeb5d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="綜合",社會NOW什麼
+https://video.mytvsuper.xyz/live/eb471242a4111fd1641dd29e5fa266f18206dacaa590a179728d64b2cb7062fd.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3410_ofiii86_tv_20240731.png" group-title="綜合",倪珍報星座
+https://video.mytvsuper.xyz/live/c5e3df55f53f9e0bc388366fd68294adbface8b19fec5a74064744ee3a95259e.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3565_ofiii88_tv_20241205.png" group-title="綜合",《錦繡安寧》預告花絮
+https://video.mytvsuper.xyz/live/79667f4c809663cf1952aa34e38176e82a19ff0d1ece1298b6b9fefc0b3b2cd2.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png" group-title="綜合",泰可愛旋風
+https://video.mytvsuper.xyz/live/6978d721219c245356d7ceac477846652e5c93a2cc28f285c14c71c0d5363238.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="綜合",演唱會直擊
+https://video.mytvsuper.xyz/live/4d5c723c4a230087a956987d3c7bdc747a8f295b35af53696679c6dd6e70e8c3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20240731.png" group-title="綜合",健康問良醫
+https://video.mytvsuper.xyz/live/ab7e9fca488de1deceeb858002d98ce87298da512847e9e0ed139d6374d43edc.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png" group-title="綜合",Freeman @台灣
+https://video.mytvsuper.xyz/live/9a35181cd036d1fc973f682c2c561e69d96cf4511a7835718c3068bc1a23f89a.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png" group-title="綜合",饕客揪愛吃
+https://video.mytvsuper.xyz/live/71f1289bbaecba1d3425e960e29497db73ff834df9c024a4d37ada3c2d578203.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png" group-title="綜合",人氣動漫預告
+https://video.mytvsuper.xyz/live/747401e4bd37b4ac11b2c496e9ba79f0d2bc70688904b44dbd65fdf598ca388c.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" group-title="綜合",銀髮聚樂部
+https://video.mytvsuper.xyz/live/0908ea163e3b14319aecb0da950fdbaf49e51d8771b4363fb24cf2c2d5f82c95.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" group-title="綜合",生命的贏家
+https://video.mytvsuper.xyz/live/bbabdd8fc94065826bcffd983edd7b7022e4e90774351da24cf337edac0c11ae.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png" group-title="綜合",電動車時代
+https://video.mytvsuper.xyz/live/0294c468ed652122d7e34e7ccc48e1c90eadacb867da3e6af2d20bd7e7d15012.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png" group-title="綜合",SiCAR愛車酷
+https://video.mytvsuper.xyz/live/12c513d12b472f0c66f8780455936473d75b7755d414ed88b630d395356823c2.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png" group-title="綜合",狂人日誌
+https://video.mytvsuper.xyz/live/740c10c28cd654133392e0fa56cf9790158152a06c6ec16ad051478348bfed8b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png" group-title="綜合",脖子解說 Mr. Neck
+https://video.mytvsuper.xyz/live/6e2d456f5588fc382780a6c6b78fe9fd73936018349b0ad1988e5add0e2117b6.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png" group-title="綜合",紓壓雷雨聲
+https://video.mytvsuper.xyz/live/29a826639f7795db335aa42a706d619ae0be5f083b8e8d05320e64992d0d662d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="綜合",療癒下雨聲
+https://video.mytvsuper.xyz/live/873e3661c3afd357727bbb22a0c93a8b4bd3bfbf86d935dbed926a22dd480225.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="綜合",放鬆的爵士午後
+https://video.mytvsuper.xyz/live/84fc55196a978c21e58ca8f8c7680e16cbd74726d0710ba177fa75a00a9af295.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="綜合",野外燒柴火聲
+https://video.mytvsuper.xyz/live/f687636959c35ae507307527c48045352bc219d5d3becb9eef7c61de43c154d1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="綜合",夏日陽光海浪聲
+https://video.mytvsuper.xyz/live/29673cc853e2970139d0a75db6d3fab385f277e757fa4f406c739809dc43cb2a.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="電影",哆啦Ａ夢台
+https://video.mytvsuper.xyz/live/ae21af61f52521d01609e9e4fbed2d2b7528a8d5fd6021d1864fba3999f1aae4.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="電影",龍華經典台
+https://video.mytvsuper.xyz/live/26a4eea8eafe0748892719145737e7224433b19ec2299b5c8d55ddb92c10689d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="電影",Golden 強片台
+https://video.mytvsuper.xyz/live/a475db09dbdd30f67c206d91e3ba4b097f45102c16c433814b83e21c7133e00b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="電影",龍華電影台
+https://video.mytvsuper.xyz/live/a832727ff593228be3e1ef02a0906a0360aaea9821de343236d457a94119432b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="電影",周星馳台
+https://video.mytvsuper.xyz/live/aba7ca2b9a8bacc9a3053bd2c1de7bf5d8b4ac6fdf78f4ca31270b76d992d65a.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="電影",歐飛電影台
+https://video.mytvsuper.xyz/live/01576d13216ebee264f5b52e8df611285341944ae4036f06e78117c326e5fd2b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="電影",歐飛喜劇電影台
+https://video.mytvsuper.xyz/live/334fc578d6ca319c70852930e25c76e0d139686798973e894d2cca57d83966b1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="戲劇",公視金獎台
+https://video.mytvsuper.xyz/live/9883e9b14d520b4145f496c1e69f2b2f96783239a706ba3c71f6306389b9cf31.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="戲劇",經典劇場
+https://video.mytvsuper.xyz/live/cd1cf77cc82648dcb0581ff00a02694700958ea2aa6efba89f5ad999a0d5c966.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="戲劇",龍華戲劇台
+https://video.mytvsuper.xyz/live/60ace1dc0ab6ca916491bdb9786530719d181519be1d65b3f8c39a5c21e8a6ed.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="戲劇",台灣戲劇台
+https://video.mytvsuper.xyz/live/cac6919fb702a4cec3c82152d2c4a232d16791259fb8d316e1e61be38de49e52.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="戲劇",龍華偶像台
+https://video.mytvsuper.xyz/live/0ff710256924ec2eb41759ec53442546de04a2a86e1036975d051398eca022b1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="戲劇",龍華日韓台
+https://video.mytvsuper.xyz/live/5a5560296d791584a6bb636ac92ddd9075ffaa1c72e1cb8bd6d170d188064fb8.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="戲劇",Focus風采戲劇台
+https://video.mytvsuper.xyz/live/d85e86133b4f2921567ab11fd3963cd4f4d9a64209ce6f5ee658b688a9c57035.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png" group-title="戲劇",錦繡安寧
+https://video.mytvsuper.xyz/live/2755367deecbde18d3328dedec8032938e911d2ab2840c4cefacfbdfc16bacf8.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png" group-title="戲劇",琅琊榜
+https://video.mytvsuper.xyz/live/2db47fd86da2233ffdcfac67f096769013fe641dee95c77ee969077f67dfa7ee.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3355_ofiii102_tv_20240531.png" group-title="戲劇",扶搖
+https://video.mytvsuper.xyz/live/1082b9882f9bd8caafca538221ccedc4865c9726666c5080c5d7b421b1d27c3b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png" group-title="戲劇",三國
+https://video.mytvsuper.xyz/live/7eae8855fb98c026e160bdf1929b6cccfdb9208eddb86418805c142781b1d8bc.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20240731.png" group-title="戲劇",武媚娘傳奇
+https://video.mytvsuper.xyz/live/89432dcf995c59cb5a964a4169fcbc4d817fd0efe576d5240416e0b73bc77175.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png" group-title="戲劇",長樂曲
+https://video.mytvsuper.xyz/live/31de2e81896829270b06267241c06f9bcfb5c22509a7a3f5f87499d7ea006cff.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png" group-title="戲劇",軍師聯盟
+https://video.mytvsuper.xyz/live/73cefea227d1ebe182a27ebb06468c3a5947dac478afa5a706dba41247240fce.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20230920.png" group-title="戲劇",軍師聯盟2 虎嘯龍吟
+https://video.mytvsuper.xyz/live/1247d249d3bbdeff71a472fe8c5eb1406f07cae3e2468566b8e6860ce9347f13.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png" group-title="戲劇",東宮(完整版)
+https://video.mytvsuper.xyz/live/d5b0cd229b45fd1b98df6c15254e0a56a9ec30a83d7d3031b8ccbc38af219f36.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3112_ofiii109_tv_20231019.png" group-title="戲劇",錦衣之下
+https://video.mytvsuper.xyz/live/d5dc46ff84dcfb2bf41430b386964b0cc6e0a8f86a815d20a3efcb8ffb3af7b5.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png" group-title="戲劇",楚喬傳
+https://video.mytvsuper.xyz/live/effbcb75c907dcf69854f196e1d7968e45237b792ec44f3b8cee697a7ac78dac.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png" group-title="戲劇",倚天屠龍記 2019
+https://video.mytvsuper.xyz/live/42effc6bce1c582f3e6e9039d4a2baa633d16b70c8a5fad12d092ba60cf68ea3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png" group-title="戲劇",披荊斬棘的大小姐
+https://video.mytvsuper.xyz/live/574c3b817a327551f81a3dea9b966764e34452f7f6db8859f6df48cc4061c447.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png" group-title="戲劇",步步驚心
+https://video.mytvsuper.xyz/live/cea71db74318630e4c999a4fc52204451d7f17e04040fc926471184c49411db4.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3512_ofiii120_tv_20241104.png" group-title="戲劇",漠風吟
+https://video.mytvsuper.xyz/live/ca2ccc3d6a5df2fbdcf0320c99233cfe239c4aa55b0884ee0e69a8a381575c4d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png" group-title="戲劇",私藏浪漫
+https://video.mytvsuper.xyz/live/8036cb08d9ecbdb769e1ef6b68ee0ec63e0635a4b3dbcc44f8f4e09144b7f1e8.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="戲劇",去有風的地方
+https://video.mytvsuper.xyz/live/b247616c5f4927fb57836327215291a3d02214e33458df39544ec7ee5109de86.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png" group-title="戲劇",以愛為營
+https://video.mytvsuper.xyz/live/35f918d61ac435b828f78e9130e5f8a16fba72cc2551d321811f5f6e719595b5.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png" group-title="戲劇",向風而行
+https://video.mytvsuper.xyz/live/1a65dffcf672d6ffc58bb01177a3f85aeace446e6fccbe71a1eaa6317a411a14.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png" group-title="戲劇",以家人之名
+https://video.mytvsuper.xyz/live/a22017eb34666bc8ce841f7547c50f409bac76a294e766fa022137e49d177890.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png" group-title="戲劇",獵狐
+https://video.mytvsuper.xyz/live/01a5f48c1d14c56a1b91f7540ddeeddee661e65281c95c0f9b0850242b6af61e.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png" group-title="戲劇",請叫我總監
+https://video.mytvsuper.xyz/live/b2fc32b2355b3d7b8d373c75125510486175706e901878ffbf26c0ba76e6f133.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3513_ofiii123_tv_20241104.png" group-title="戲劇",司藤
+https://video.mytvsuper.xyz/live/e06d5b005a131eb1a629635a4d43592696302f5ac24a3ee8f4561b382355a1c5.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3477_ofiii124_tv_20240930.png" group-title="戲劇",他們的奇妙時光
+https://video.mytvsuper.xyz/live/308e10ee16fc5bea69a358c472320e4041df0f72a3c7df46e7fa82ab5286bd21.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20241104.png" group-title="戲劇",白雪公主非死不可
+https://video.mytvsuper.xyz/live/ef3a692d6fec597bffd7b84b9ea82c79792bae414e07b38fb016b674e0e939a9.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20241104.png" group-title="戲劇",好搭檔
+https://video.mytvsuper.xyz/live/8c74c19f36a4a0d9dd5602a3d236f68b7463fb832a62382e1b35ebcd0baa4afc.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii148_tv_20230515.png" group-title="戲劇",頭腦共助
+https://video.mytvsuper.xyz/live/074305794f0d775a0d9bb0819f28d9c3386c8f0ffefb5bc88b4c564fd063c6d1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20241104.png" group-title="戲劇",凌晨兩點的灰姑娘
+https://video.mytvsuper.xyz/live/86e588e3f20e511804074f57737f34b68824aced909ed9f5127fb8da7c656c06.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_litv-vchannel146_tv_20240626.png" group-title="戲劇",台灣靈異事件
+https://video.mytvsuper.xyz/live/8142e515fd1b8bef0b629f84bdde9ce9166ed3e305b9b409a0516d8a83d5e6d1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20240131.png" group-title="戲劇",包青天 1993版
+https://video.mytvsuper.xyz/live/86c3d51b4579db08405cb9f9f9efdd5aaa3677113f7842a2f1e7d683c25188cd.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20230823.png" group-title="戲劇",我的婆婆怎麼那麼可愛
+https://video.mytvsuper.xyz/live/e183b52ecf22a9940c6b54be1693d5085bef27fff9b6aa4e3e2be0cb9799bc3b.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20230823.png" group-title="戲劇",村裡來了個暴走女外科
+https://video.mytvsuper.xyz/live/05bab453abc5d19e6baa7b0b387bce1c726982c4f578d7ae976e34a18832513a.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20230920.png" group-title="戲劇",一把青
+https://video.mytvsuper.xyz/live/538ca9024c2ca5a50253d0b179e2483f006ebecdb3cbd00ed41429da046f9c2c.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_litv-vchannel142_tv_20231019.png" group-title="戲劇",茶金
+https://video.mytvsuper.xyz/live/482a510bb75c7b500d5b4d7fc9759b7a727bfaaa891a6b742e272096710850be.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20240930.png" group-title="戲劇",苦力
+https://video.mytvsuper.xyz/live/f475014f210799fbc76fca744799ca948f72463061717f420c2eb7cae6d13618.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20240531.png" group-title="戲劇",俗女養成記
+https://video.mytvsuper.xyz/live/21fca5066f3e960391537b8fda5c16d71b6251b80a13ef6a252deb4616de0e14.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20240802.png" group-title="戲劇",麻醉風暴
+https://video.mytvsuper.xyz/live/8163313e58dffdbc6b3bdece0dc05081b6c007b9126090db61241adec21edc47.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="綜藝",TVBS食尚玩家
+https://video.mytvsuper.xyz/live/d22ab976d5efd422db0eb7f245f02a6873cd24d02417f23f1be458f5726f1b85.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="綜藝",東森娛樂台
+https://video.mytvsuper.xyz/live/0285bc3863553ca60800bdfd1415a6cc0b405506b2050d25b114d016e1889432.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="綜藝",鄉民大學問
+https://video.mytvsuper.xyz/live/3a20b46946fe42fd15b6f452368d8dd604b72042ce676ee1593ef435811eeb5d.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png" group-title="綜藝",野球名人房
+https://video.mytvsuper.xyz/live/3c2420fa59bc4d630b10476239e6af3090497d73cd00ab1825e68c095ee46318.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="綜藝",社會NOW什麼
+https://video.mytvsuper.xyz/live/eb471242a4111fd1641dd29e5fa266f18206dacaa590a179728d64b2cb7062fd.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3410_ofiii86_tv_20240731.png" group-title="綜藝",倪珍報星座
+https://video.mytvsuper.xyz/live/c5e3df55f53f9e0bc388366fd68294adbface8b19fec5a74064744ee3a95259e.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20240531.png" group-title="綜藝",豬哥壹級棒
+https://video.mytvsuper.xyz/live/5e79524c8a2f482bd4396526c62e184f080d15467a566d9504bf55b15b295ca3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3357_ofiii127_tv_20240531.png" group-title="綜藝",小明星大跟班
+https://video.mytvsuper.xyz/live/3793914308b5fb09f1856266e609aa9343c0739f061c7823633684d98930fe93.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png" group-title="綜藝",WTO姐妹會
+https://video.mytvsuper.xyz/live/aa055a5e0f1f03511a72592a13fa5fb1311a23cca4b191a4e394372a36862cfe.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="綜藝",綜藝玩很大
+https://video.mytvsuper.xyz/live/57b6066918b425948e4b83646c7d47824c28dd0cf05e2fce7546ec85ab0f07d5.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="綜藝",全民星攻略
+https://video.mytvsuper.xyz/live/a5b32bc17e543215a2fc42df0014a0b66b0e60ce4b10e7a2a74bb932b9e284f3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii133_tv_20230329.png" group-title="綜藝",台灣啟示錄
+https://video.mytvsuper.xyz/live/d0e4078fccc48347fb91ff68f4d4c69b25a001033283fa83bc9494e92abcf9d0.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png" group-title="綜藝",法眼黑與白
+https://video.mytvsuper.xyz/live/87feba690df340bc899c5b6ff766c8e005f27760e579068540d056b1fa10b63a.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png" group-title="綜藝",天才衝衝衝
+https://video.mytvsuper.xyz/live/2e5b433abd144ea2d6f93c621d3e1f556c780f5ba73931fbc7fec81b2d447d20.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png" group-title="綜藝",女人我最大
+https://video.mytvsuper.xyz/live/e24229cc1d2d2b004eef96674034c7420b55aabf87697e1a968eb9c044f377bf.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20231213.png" group-title="綜藝",一字千金
+https://video.mytvsuper.xyz/live/7ca0b5da78a2adde70159021d8680a104389ce247088a281f0ab6a8a1bf8553f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png" group-title="綜藝",11點熱吵店
+https://video.mytvsuper.xyz/live/13867e57bfbb7329b45a0ec4ef182752861130040190cf81644d14dc2eb84623.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20241211.png" group-title="綜藝",食尚玩家-Hello腹餓代
+https://video.mytvsuper.xyz/live/86a8427d9c09fc6d6c0b73ccab80954e18c49c3902acc0700b92f54528ca7213.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_tv_20241211.png" group-title="綜藝",食尚玩家-天菜就醬吃
+https://video.mytvsuper.xyz/live/d56145a878e2ffad73d97027aa27ecf47806887666ed7db8eba39bee8753b931.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_tv_20241202.png" group-title="綜藝",食尚玩家-2天1夜go
+https://video.mytvsuper.xyz/live/f041a7919607bd58c772117bd097d08f11f0f6e539ab45ddeab6e3ae5717f813.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_tv_20241202.png" group-title="綜藝",食尚玩家-熱血48小時
+https://video.mytvsuper.xyz/live/4396bdd78305e51c24d52f511a5fdf4596b5529ff2fc00b2f3f37b8f3bf0ea5f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3556_ofiii229_tv_20241202.png" group-title="綜藝",食尚玩家-魚肉鄉民
+https://video.mytvsuper.xyz/live/2e1c1afa85a27052ea948f4a8eb02a8279c414278a327b00b71e96d10e14f012.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3557_ofiii230_tv_20241202.png" group-title="綜藝",食尚玩家-瘋狂總部
+https://video.mytvsuper.xyz/live/01d357dec96943fef0fca0494adc300609293cf60d2776556890aeb3036b0f86.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_tv_20241202.png" group-title="綜藝",非凡大探索
+https://video.mytvsuper.xyz/live/bd3b562c6062436864c34e79bda38bee43f34a1a3714307de17e6f5ca81a87f8.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_tv_20241202.png" group-title="綜藝",台灣1001個故事
+https://video.mytvsuper.xyz/live/707f757175609a604ba8a0463357ba4d5b474d128b456cf1e1714dbbec55163a.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20241211.png" group-title="綜藝",詹姆士出走料理
+https://video.mytvsuper.xyz/live/2edfb492e84228942d4b225f9c6d5afefae61049df8aebef63b40762d5083523.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png" group-title="綜藝",進擊的台灣
+https://video.mytvsuper.xyz/live/088d337af72c6142096762aafd86602d89634294393e23a257e3ceb90e674c7f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png" group-title="綜藝",世界第一等
+https://video.mytvsuper.xyz/live/00f11801f2b986ca5b8859d7f1dcb2d0aa116fa34987f346772089852e34e06e.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20241211.png" group-title="綜藝",台灣第一等
+https://video.mytvsuper.xyz/live/14aeb96739f86839685d8d35fb7dd095b622a7f053fbc57d20c470f48edc172c.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png" group-title="綜藝",溢遊未盡
+https://video.mytvsuper.xyz/live/c90cc5970b3c9036869c19006a1f11cd21eed5aa9be286767b57733dc21aa610.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="卡通‧兒童",ELTV生活英語台
+https://video.mytvsuper.xyz/live/7d81efae8cba0046639e5e63ce70c1de360d63209892c85ff87247cde63b42e3.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png" group-title="卡通‧兒童",龍華卡通台
+https://video.mytvsuper.xyz/live/e1dc477915469982a7a512df48997e048734425320039f1f98664f754d182ced.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="卡通‧兒童",哆啦Ａ夢台
+https://video.mytvsuper.xyz/live/ae21af61f52521d01609e9e4fbed2d2b7528a8d5fd6021d1864fba3999f1aae4.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="卡通‧兒童",新哆啦A夢(中文版)
+https://video.mytvsuper.xyz/live/d7f1503e07c91d27c4d12151cf3c7c2254916813c5059a7b27f06b8354217de1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="動漫",新哆啦A夢(中文版)
+https://video.mytvsuper.xyz/live/d7f1503e07c91d27c4d12151cf3c7c2254916813c5059a7b27f06b8354217de1.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",雖然等級只有1級但固有技能是最強的
+https://video.mytvsuper.xyz/live/1f6e35e6bd8cd97777a50698477692f21ffb6563969eacbb21fdd1b06eb57187.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",擁有超常技能的異世界流浪美食家
+https://video.mytvsuper.xyz/live/f2be8912a4d0128758c4c9a5c5a144edec14ba4ed8172f9758fc6d8b6788deac.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",WIND BREAKER—防風少年—
+https://video.mytvsuper.xyz/live/b13839d55f4a8c639b4da588967f6bbf7f4aa57cfd24b8121c5eb29304687dac.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
+https://video.mytvsuper.xyz/live/b1cdd17371ec30baac47c99dd36cd6de317fbefc83b209a8186a1e576c74b694.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",第一神拳
+https://video.mytvsuper.xyz/live/286c78a6f8f67021147d65818946ff16ed19b31278c446bf782be77ffcfc0465.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",刀劍神域(中文版)
+https://video.mytvsuper.xyz/live/d52cbf40fab31c05dfcc0500b87c30eb0897a5b3620193b28f90557c1e9ae4cd.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",蠟筆小新(中文版)
+https://video.mytvsuper.xyz/live/09bcb55f2f7e73d6e3088ced62838f848f5f9326270c29d42b05e1f80472d72a.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",我們這一家
+https://video.mytvsuper.xyz/live/2bb7e546e64423ebe70f3ffbc735f03a73a6d5a28ff11625cafe4ef0c9d385d5.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",獵人(中文版)
+https://video.mytvsuper.xyz/live/8593418fe86548671e042fb2f28ee4e363a22ceb9cd7797fb7c61471618be335.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",中華一番(中文版)
+https://video.mytvsuper.xyz/live/cc6b9cf13af51c8d4b53594c5c0ccfbc12ac5aca878d05ee1e10b345b41ef55f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",隊長小翼(中文版)
+https://video.mytvsuper.xyz/live/8fc73878d41a9f179dcfe2a9c0f39c29089b3aea226dfc3b139f93bf8b37ebe6.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",SPY X FAMILY 間諜家家酒
+https://video.mytvsuper.xyz/live/7aecd93625c20bba46d0e02d72101f0e22c398d59f3859fb7131712fc819926f.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",SPY X FAMILY 間諜家家酒(中文版)
+https://video.mytvsuper.xyz/live/0d768e05d1d7b6f93cf235577a3ee56c66e4b4f32b0a90fa05dc24040a57c1ed.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",無職轉生，到了異世界就拿出真本事
+https://video.mytvsuper.xyz/live/c904c98ffaaa2857f69f26ad83b2c931687e028e14e57c06d5bf03bef67a05cf.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",關於我轉生變成史萊姆這檔事(國)
+https://video.mytvsuper.xyz/live/a1abee606f89d7fc56a57b83e76bbf661d4013474ed4f6d0fb0c8a164c95c969.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",夏目友人帳
+https://video.mytvsuper.xyz/live/e3dd9893b0bdca995eb0e3ec900f710679584163364fcb8b7f5d256258b9e6df.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",家庭教師HITMAN REBORN!(中文版)
+https://video.mytvsuper.xyz/live/2230c58cc8a62cfd150ba573b72b1ee7137585cc404878f1ebd508ad6cdd11e9.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",烘焙王(中文版)
+https://video.mytvsuper.xyz/live/51f182dd41261e381ded5949e124665191e9f059f34d6698debce8cca63a0d3e.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",鋼之鍊金術師
+https://video.mytvsuper.xyz/live/8b7d2a26cf4a4e372b8f1b4393f0f93965c9897f97acebe5d0f2d6776d59964c.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",JOJO 的奇妙冒險
+https://video.mytvsuper.xyz/live/b605aaf75c86e3a726a9a88c2f244c032dd2fc6dc3713bf00552f1707edff2a5.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",葬送的芙莉蓮
+https://video.mytvsuper.xyz/live/2fb99385893fe20e65317b3a49c16d0c7d6dd4291a324838dca4527e3ed66db9.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",史上最強弟子兼一(中文版)
+https://video.mytvsuper.xyz/live/362ae32f627ebd51d0759642e3b9c7297581a42eb91bce3d299e1ecaafe589fc.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",爆漫王(中文版)
+https://video.mytvsuper.xyz/live/5c42bc63e4ebf1893253f78da4b4509656173867c9448a999093d2f339c322a9.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="動漫",忍者亂太郎(中文版)
+https://video.mytvsuper.xyz/live/1332918774310d1f4ec98c4af0450e271ac2aef6837445a778b3aa0cb5584874.m3u8?token=683950868802619
