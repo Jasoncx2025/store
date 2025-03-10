@@ -359,6 +359,21 @@ https://video.mytvsuper.xyz/live/d30fd62c72a254c7cf530df704a2a56f02640a5b2e1b480
 https://video.mytvsuper.xyz/live/97732910e21583c2982c5f205e6c19908ed9a6d68959565e8b8bc3ab3ddb485c.m3u8?token=683950868802619
 
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="香港MyTV", 鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://video.mytvsuper.xyz/live/5562120ce1bd3ef3408d32a29fbd7848f2b8f26976279a1015170eb3dbedec92.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="香港MyTV", 鳳凰衛視資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://video.mytvsuper.xyz/live/241c0af0a5997a43e17b84190bcd3b6e463f8cea0687a2c251c054335b6bab04.m3u8?token=683950868802619
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="香港MyTV", 鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://video.mytvsuper.xyz/live/28521f6e8875b0b538396b944422d7522dd103b8f96d4e1e876bc35f683b15c7.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港MyTV", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -549,21 +564,6 @@ https://video.mytvsuper.xyz/live/3fdee1ec46b6d6777b84239d3932bf5660e031de762c048
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
 https://video.mytvsuper.xyz/live/9c722624e2549265096d380cc8a69ee58e2ee0d9a22e0d86040be65d7a715105.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="香港MyTV", 鳳凰衛視中文台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
-https://video.mytvsuper.xyz/live/5562120ce1bd3ef3408d32a29fbd7848f2b8f26976279a1015170eb3dbedec92.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="香港MyTV", 鳳凰衛視資訊台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-https://video.mytvsuper.xyz/live/241c0af0a5997a43e17b84190bcd3b6e463f8cea0687a2c251c054335b6bab04.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="香港MyTV", 鳳凰衛視香港台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
-https://video.mytvsuper.xyz/live/28521f6e8875b0b538396b944422d7522dd103b8f96d4e1e876bc35f683b15c7.m3u8?token=683950868802619
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="香港MyTV", PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
