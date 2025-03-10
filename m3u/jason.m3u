@@ -1050,7 +1050,7 @@ https://video.mytvsuper.xyz/live/11a2350613adde8388f5d4ab471a77d6b639ce865296a38
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
 https://video.mytvsuper.xyz/live/086d0a9fb1195d5e15ce86502d319291e1f5140597ffba253e27f30805f983c1.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="音樂綜藝", Mezzo Live HD
+#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="香港MyTV", Mezzo Live HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
@@ -1165,3 +1165,4 @@ https://video.mytvsuper.xyz/live/6d1cd1b43a7db13a79fc0607b3e471f7bc073da062369ef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 https://video.mytvsuper.xyz/live/cf84a5e7f4028a8e7f2931f6190305d5c3b76f0aa0d0d86bab9cc50f349388f3.m3u8?token=683950868802619
+
