@@ -827,114 +827,165 @@ https://video.mytvsuper.xyz/live/6d1cd1b43a7db13a79fc0607b3e471f7bc073da062369ef
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 https://video.mytvsuper.xyz/live/cf84a5e7f4028a8e7f2931f6190305d5c3b76f0aa0d0d86bab9cc50f349388f3.m3u8?token=683950868802619
 
+#EXTM3U x-tvg-url="https://epg.doube.eu.org/ofiii.xml"
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="台湾4GTV&ofiii",台視
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv066&sd=1080
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="台湾4GTV&ofiii",中視
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv040&sd=1080
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="台湾4GTV&ofiii",華視
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv041&sd=1080
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="台湾4GTV&ofiii",好消息
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-ftv16&sd=1080
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="台湾4GTV&ofiii",好消息2台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-ftv17&sd=1080
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="台湾4GTV&ofiii",華視新聞
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv052&sd=1080
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="台湾4GTV&ofiii",三立新聞iNEWS
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=iNEWS&sd=1080
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="台湾4GTV&ofiii",台視新聞
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv051&sd=1080
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="台湾4GTV&ofiii",中視新聞
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv074&sd=1080
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="台湾4GTV&ofiii",中天新聞台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv009&sd=1080
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="台湾4GTV&ofiii",寰宇新聞台灣台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv156&sd=1080
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="台湾4GTV&ofiii",寰宇新聞台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn14&sd=1080
+#EXTINF:-1 tvg-id="大新聞大爆卦" tvg-name="大新聞大爆卦" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="台湾4GTV&ofiii",大新聞大爆卦
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii201&sd=1080
+#EXTINF:-1 tvg-id="新聞大白話" tvg-name="新聞大白話" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="台湾4GTV&ofiii",新聞大白話
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii202&sd=1080
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="台湾4GTV&ofiii",亞洲旅遊台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=4gtv-4gtv076&sd=1080
+#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="台湾4GTV&ofiii",中天亞洲精采台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii36&sd=1080
+#EXTINF:-1 tvg-id="Focus探索新知台" tvg-name="Focus探索新知台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="台湾4GTV&ofiii",Focus探索新知台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii82&sd=1080
+#EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="台湾4GTV&ofiii",鄉民大學問
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii83&sd=1080
+#EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="台湾4GTV&ofiii",社會NOW什麼
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii85&sd=1080
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="台湾4GTV&ofiii",龍華經典台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn21&sd=1080
+#EXTINF:-1 tvg-id="Golden 強片台" tvg-name="Golden 強片台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="台湾4GTV&ofiii",Golden 強片台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii70&sd=1080
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="台湾4GTV&ofiii",龍華電影台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn03&sd=1080
+#EXTINF:-1 tvg-id="周星馳台" tvg-name="周星馳台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="台湾4GTV&ofiii",周星馳台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii73&sd=1080
+#EXTINF:-1 tvg-id="歐飛電影台" tvg-name="歐飛電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="台湾4GTV&ofiii",歐飛電影台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii74&sd=1080
+#EXTINF:-1 tvg-id="歐飛喜劇電影台" tvg-name="歐飛喜劇電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="台湾4GTV&ofiii",歐飛喜劇電影台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii75&sd=1080
+#EXTINF:-1 tvg-id="公視金獎台" tvg-name="公視金獎台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="台湾4GTV&ofiii",公視金獎台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii13&sd=1080
+#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="台湾4GTV&ofiii",經典劇場
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii38&sd=1080
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="台湾4GTV&ofiii",龍華戲劇台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn18&sd=1080
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="台湾4GTV&ofiii",台灣戲劇台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn22&sd=1080
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="台湾4GTV&ofiii",龍華偶像台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn12&sd=1080
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="台湾4GTV&ofiii",龍華日韓台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn11&sd=1080
+#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="台湾4GTV&ofiii",Focus風采戲劇台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii1048&sd=1080
+#EXTINF:-1 tvg-id="TVBS食尚玩家" tvg-name="TVBS食尚玩家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="台湾4GTV&ofiii",TVBS食尚玩家
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii31&sd=1080
+#EXTINF:-1 tvg-id="東森娛樂台" tvg-name="東森娛樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="台湾4GTV&ofiii",東森娛樂台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii32&sd=1080
+#EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="台湾4GTV&ofiii",鄉民大學問
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii83&sd=1080
+#EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="台湾4GTV&ofiii",社會NOW什麼
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii85&sd=1080
+#EXTINF:-1 tvg-id="豬哥壹級棒" tvg-name="豬哥壹級棒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20240531.png" group-title="台湾4GTV&ofiii",豬哥壹級棒
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii126&sd=1080
+#EXTINF:-1 tvg-id="小明星大跟班" tvg-name="小明星大跟班" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3357_ofiii127_tv_20240531.png" group-title="台湾4GTV&ofiii",小明星大跟班
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii127&sd=1080
+#EXTINF:-1 tvg-id="WTO姐妹會" tvg-name="WTO姐妹會" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png" group-title="台湾4GTV&ofiii",WTO姐妹會
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii129&sd=1080
+#EXTINF:-1 tvg-id="綜藝玩很大" tvg-name="綜藝玩很大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="台湾4GTV&ofiii",綜藝玩很大
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii130&sd=1080
+#EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="台湾4GTV&ofiii",全民星攻略
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii131&sd=1080
+#EXTINF:-1 tvg-id="台灣啟示錄" tvg-name="台灣啟示錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii133_tv_20230329.png" group-title="台湾4GTV&ofiii",台灣啟示錄
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii133&sd=1080
+#EXTINF:-1 tvg-id="法眼黑與白" tvg-name="法眼黑與白" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png" group-title="台湾4GTV&ofiii",法眼黑與白
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii134&sd=1080
+#EXTINF:-1 tvg-id="天才衝衝衝" tvg-name="天才衝衝衝" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png" group-title="台湾4GTV&ofiii",天才衝衝衝
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii135&sd=1080
+#EXTINF:-1 tvg-id="女人我最大" tvg-name="女人我最大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png" group-title="台湾4GTV&ofiii",女人我最大
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii137&sd=1080
+#EXTINF:-1 tvg-id="一字千金" tvg-name="一字千金" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20231213.png" group-title="台湾4GTV&ofiii",一字千金
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii142&sd=1080
+#EXTINF:-1 tvg-id="11點熱吵店" tvg-name="11點熱吵店" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png" group-title="台湾4GTV&ofiii",11點熱吵店
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii143&sd=1080
+#EXTINF:-1 tvg-id="進擊的台灣" tvg-name="進擊的台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png" group-title="台湾4GTV&ofiii",進擊的台灣
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii237&sd=1080
+#EXTINF:-1 tvg-id="世界第一等" tvg-name="世界第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png" group-title="台湾4GTV&ofiii",世界第一等
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii238&sd=1080
+#EXTINF:-1 tvg-id="台灣第一等" tvg-name="台灣第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20241211.png" group-title="台湾4GTV&ofiii",台灣第一等
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii239&sd=1080
+#EXTINF:-1 tvg-id="溢遊未盡" tvg-name="溢遊未盡" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png" group-title="台湾4GTV&ofiii",溢遊未盡
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii240&sd=1080
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="台湾4GTV&ofiii",ELTV生活英語台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn20&sd=1080
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png" group-title="台湾4GTV&ofiii",龍華卡通台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=litv-longturn01&sd=1080
+#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="台湾4GTV&ofiii",哆啦Ａ夢台
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii22&sd=1080
+#EXTINF:-1 tvg-id="新哆啦A夢(中文版)" tvg-name="新哆啦A夢(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="台湾4GTV&ofiii",新哆啦A夢(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii23&sd=1080
+#EXTINF:-1 tvg-id="雖然等級只有1級但固有技能是最強的" tvg-name="雖然等級只有1級但固有技能是最強的" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",雖然等級只有1級但固有技能是最強的
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii159&sd=1080
+#EXTINF:-1 tvg-id="擁有超常技能的異世界流浪美食家" tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",擁有超常技能的異世界流浪美食家
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii160&sd=1080
+#EXTINF:-1 tvg-id="WIND BREAKER—防風少年—" tvg-name="WIND BREAKER—防風少年—" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",WIND BREAKER—防風少年—
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii161&sd=1080
+#EXTINF:-1 tvg-id="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-name="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii162&sd=1080
+#EXTINF:-1 tvg-id="第一神拳" tvg-name="第一神拳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",第一神拳
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii163&sd=1080
+#EXTINF:-1 tvg-id="刀劍神域(中文版)" tvg-name="刀劍神域(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",刀劍神域(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii164&sd=1080
+#EXTINF:-1 tvg-id="蠟筆小新(中文版)" tvg-name="蠟筆小新(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",蠟筆小新(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii165&sd=1080
+#EXTINF:-1 tvg-id="我們這一家" tvg-name="我們這一家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",我們這一家
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii166&sd=1080
+#EXTINF:-1 tvg-id="獵人(中文版)" tvg-name="獵人(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",獵人(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii167&sd=1080
+#EXTINF:-1 tvg-id="中華一番(中文版)" tvg-name="中華一番(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",中華一番(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii168&sd=1080
+#EXTINF:-1 tvg-id="隊長小翼(中文版)" tvg-name="隊長小翼(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",隊長小翼(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii169&sd=1080
+#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒" tvg-name="SPY X FAMILY 間諜家家酒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",SPY X FAMILY 間諜家家酒
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii170&sd=1080
+#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒(中文版)" tvg-name="SPY X FAMILY 間諜家家酒(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",SPY X FAMILY 間諜家家酒(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii171&sd=1080
+#EXTINF:-1 tvg-id="無職轉生，到了異世界就拿出真本事" tvg-name="無職轉生，到了異世界就拿出真本事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",無職轉生，到了異世界就拿出真本事
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii172&sd=1080
+#EXTINF:-1 tvg-id="關於我轉生變成史萊姆這檔事(國)" tvg-name="關於我轉生變成史萊姆這檔事(國)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",關於我轉生變成史萊姆這檔事(國)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii173&sd=1080
+#EXTINF:-1 tvg-id="夏目友人帳" tvg-name="夏目友人帳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",夏目友人帳
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii174&sd=1080
+#EXTINF:-1 tvg-id="家庭教師HITMAN REBORN!(中文版)" tvg-name="家庭教師HITMAN REBORN!(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",家庭教師HITMAN REBORN!(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii175&sd=1080
+#EXTINF:-1 tvg-id="烘焙王(中文版)" tvg-name="烘焙王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",烘焙王(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii176&sd=1080
+#EXTINF:-1 tvg-id="鋼之鍊金術師" tvg-name="鋼之鍊金術師" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",鋼之鍊金術師
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii177&sd=1080
+#EXTINF:-1 tvg-id="JOJO 的奇妙冒險" tvg-name="JOJO 的奇妙冒險" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",JOJO 的奇妙冒險
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii178&sd=1080
+#EXTINF:-1 tvg-id="葬送的芙莉蓮" tvg-name="葬送的芙莉蓮" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",葬送的芙莉蓮
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii179&sd=1080
+#EXTINF:-1 tvg-id="史上最強弟子兼一(中文版)" tvg-name="史上最強弟子兼一(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",史上最強弟子兼一(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii180&sd=1080
+#EXTINF:-1 tvg-id="爆漫王(中文版)" tvg-name="爆漫王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",爆漫王(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii181&sd=1080
+#EXTINF:-1 tvg-id="忍者亂太郎(中文版)" tvg-name="忍者亂太郎(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="台湾4GTV&ofiii",忍者亂太郎(中文版)
+https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii182&sd=1080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾4GTV&ofiii",删除缓存
+https://ofiii.in.6726178.xyz:40080/clear_all_cache
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="台湾频道",台視
-https://video.mytvsuper.xyz/live/5d9a0c3bd245983ddf5b25328d46dafa4feaab15b2b80fce6df925211fd0dad1.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="台湾频道",中視
-https://video.mytvsuper.xyz/live/d1805f1158ae62153b98d3f706873239d25edfdeea38707c5d13b3f1c58936f4.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="台湾频道",華視
-https://video.mytvsuper.xyz/live/ae6584ed3e02e19ea61e005d26a9e7bb3406b589c89d24d09cbcd2e1053febb3.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="台湾频道",好消息2台
-https://video.mytvsuper.xyz/live/9a0439c00b89408428857b6ccc4500fac21e9e6fb1709982fd4f3f6968545c2f.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="台湾频道",好消息
-https://video.mytvsuper.xyz/live/6c19e466c0065ba5a4eca352d65eb10ba217155812133182817c8d315ba08c34.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="台湾频道",亞洲旅遊台
-https://video.mytvsuper.xyz/live/aa12bc287324a6c53f1e1e335750893c714875aa7ea7cd864a5da2cd154e84ea.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="台湾频道",中天亞洲精采台
-https://video.mytvsuper.xyz/live/a08adda3136b183d4d752680ce4d17c57438804dc3de419f5486b540658cbb4b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="台湾频道",Smart知識台
-https://video.mytvsuper.xyz/live/71b78636ffe58af5a6bd1169f773c1e337db4ba3b05cab5cb9f205f378203e7c.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="台湾频道",Focus探索新知台
-https://video.mytvsuper.xyz/live/c2a2b0a41ddb556f2123d42c6d5d9cd7d3bc9983e74b75cf0838c586b28dbd50.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="台湾频道",鄉民大學問
-https://video.mytvsuper.xyz/live/3a20b46946fe42fd15b6f452368d8dd604b72042ce676ee1593ef435811eeb5d.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="台湾频道",社會NOW什麼
-https://video.mytvsuper.xyz/live/eb471242a4111fd1641dd29e5fa266f18206dacaa590a179728d64b2cb7062fd.m3u8?token=683950868802619
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="台湾频道",台視新聞
-https://video.mytvsuper.xyz/live/95c4d92f73838e5f7d9bd5bf041ad13da687399eafdba4e455aa2ef67fe33dc2.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="台湾频道",中視新聞
-https://video.mytvsuper.xyz/live/0c2c2bbb7f881d343625dbdffb246206f1c0b1ee1745ccc870f7332b7dee858d.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="台湾频道",中天新聞台
-https://video.mytvsuper.xyz/live/53bcda11acc884709dfc9e1886a602a215282df4dc0e7420d6030323d7c68b4b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="台湾频道",寰宇新聞台灣台
-https://video.mytvsuper.xyz/live/e2d4e931d1717441df88ac745afd5dd34b16a31624c9bc474abd39a2fa85058d.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="台湾频道",寰宇新聞台
-https://video.mytvsuper.xyz/live/040972130764e8e30ad67db3b04f0c4c3bb5c3778cbffd28321e178cb8cf2f96.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="台湾频道",第1財經
-https://video.mytvsuper.xyz/live/96efb1b6728397e01fbcc00a62053d441d0d5c66071d69207057acd2d1a86ac7.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="台湾频道",第1商業台
-https://video.mytvsuper.xyz/live/f0f7840d272170c0ce49dfdf766fe0a95ecba5137ad3822adab5074bc5a2cb87.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="台湾频道",大新聞大爆卦
-https://video.mytvsuper.xyz/live/b50c714e1ddfab4ce9bbd45722c8dbd2a5a222b84900aeb60faf0adf9b79812e.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="台湾频道",新聞大白話
-https://video.mytvsuper.xyz/live/23ea88744fccecf9c70d375c3e3be9e6de485288cd76e8fe9b65b27745c3f8ac.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png" group-title="台湾频道",文茜的世界周報
-https://video.mytvsuper.xyz/live/1bb58b523022b4e77f77183cf42c0527aeda86becf7486dc7361c0c3d1fc27d8.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png" group-title="台湾频道",寰宇全視界
-https://video.mytvsuper.xyz/live/2db8353f8540368c66398a97de218313117458d579ff9de08ab3f07aabeb67eb.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png" group-title="台湾频道",文茜的世界財經周報
-https://video.mytvsuper.xyz/live/62e502b4ac936d6daa67e2f33a82a9d195833ab70ade4ce16f3da7fdbc3e9f14.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png" group-title="台湾频道",環球大戰線
-https://video.mytvsuper.xyz/live/a333bd3f6ae9011cbcfe0a2763643a283354866fd8c35636dfff4f91eec95c0f.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png" group-title="台湾频道",少康戰情室
-https://video.mytvsuper.xyz/live/0b340c23244c000fbdf0eaf6d1bdd3ea2cd6b2f07af5a68a145e8ab31393def9.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png" group-title="台湾频道",國民大會
-https://video.mytvsuper.xyz/live/78a9529830157952ce5e1f5a653cfcec8fbf3ac46a3d3b9abb4c017785f625b2.m3u8?token=683950868802619
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="台湾频道",哆啦Ａ夢台
-https://video.mytvsuper.xyz/live/ae21af61f52521d01609e9e4fbed2d2b7528a8d5fd6021d1864fba3999f1aae4.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="台湾频道",龍華經典台
-https://video.mytvsuper.xyz/live/26a4eea8eafe0748892719145737e7224433b19ec2299b5c8d55ddb92c10689d.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="台湾频道",Golden 強片台
-https://video.mytvsuper.xyz/live/a475db09dbdd30f67c206d91e3ba4b097f45102c16c433814b83e21c7133e00b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="台湾频道",龍華電影台
-https://video.mytvsuper.xyz/live/a832727ff593228be3e1ef02a0906a0360aaea9821de343236d457a94119432b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="台湾频道",周星馳台
-https://video.mytvsuper.xyz/live/aba7ca2b9a8bacc9a3053bd2c1de7bf5d8b4ac6fdf78f4ca31270b76d992d65a.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="台湾频道",歐飛電影台
-https://video.mytvsuper.xyz/live/01576d13216ebee264f5b52e8df611285341944ae4036f06e78117c326e5fd2b.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="台湾频道",歐飛喜劇電影台
-https://video.mytvsuper.xyz/live/334fc578d6ca319c70852930e25c76e0d139686798973e894d2cca57d83966b1.m3u8?token=683950868802619
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="台湾频道",公視金獎台
-https://video.mytvsuper.xyz/live/9883e9b14d520b4145f496c1e69f2b2f96783239a706ba3c71f6306389b9cf31.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="台湾频道",經典劇場
-https://video.mytvsuper.xyz/live/cd1cf77cc82648dcb0581ff00a02694700958ea2aa6efba89f5ad999a0d5c966.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="台湾频道",龍華戲劇台
-https://video.mytvsuper.xyz/live/60ace1dc0ab6ca916491bdb9786530719d181519be1d65b3f8c39a5c21e8a6ed.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="台湾频道",台灣戲劇台
-https://video.mytvsuper.xyz/live/cac6919fb702a4cec3c82152d2c4a232d16791259fb8d316e1e61be38de49e52.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="台湾频道",龍華偶像台
-https://video.mytvsuper.xyz/live/0ff710256924ec2eb41759ec53442546de04a2a86e1036975d051398eca022b1.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="台湾频道",龍華日韓台
-https://video.mytvsuper.xyz/live/5a5560296d791584a6bb636ac92ddd9075ffaa1c72e1cb8bd6d170d188064fb8.m3u8?token=683950868802619
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="台湾频道",東森娛樂台
-https://video.mytvsuper.xyz/live/0285bc3863553ca60800bdfd1415a6cc0b405506b2050d25b114d016e1889432.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="台湾频道",鄉民大學問
-https://video.mytvsuper.xyz/live/3a20b46946fe42fd15b6f452368d8dd604b72042ce676ee1593ef435811eeb5d.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="台湾频道",社會NOW什麼
-https://video.mytvsuper.xyz/live/eb471242a4111fd1641dd29e5fa266f18206dacaa590a179728d64b2cb7062fd.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20240531.png" group-title="台湾频道",豬哥壹級棒
-https://video.mytvsuper.xyz/live/5e79524c8a2f482bd4396526c62e184f080d15467a566d9504bf55b15b295ca3.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3357_ofiii127_tv_20240531.png" group-title="台湾频道",小明星大跟班
-https://video.mytvsuper.xyz/live/3793914308b5fb09f1856266e609aa9343c0739f061c7823633684d98930fe93.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png" group-title="台湾频道",WTO姐妹會
-https://video.mytvsuper.xyz/live/aa055a5e0f1f03511a72592a13fa5fb1311a23cca4b191a4e394372a36862cfe.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="台湾频道",綜藝玩很大
-https://video.mytvsuper.xyz/live/57b6066918b425948e4b83646c7d47824c28dd0cf05e2fce7546ec85ab0f07d5.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="台湾频道",全民星攻略
-https://video.mytvsuper.xyz/live/a5b32bc17e543215a2fc42df0014a0b66b0e60ce4b10e7a2a74bb932b9e284f3.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii133_tv_20230329.png" group-title="台湾频道",台灣啟示錄
-https://video.mytvsuper.xyz/live/d0e4078fccc48347fb91ff68f4d4c69b25a001033283fa83bc9494e92abcf9d0.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png" group-title="台湾频道",法眼黑與白
-https://video.mytvsuper.xyz/live/87feba690df340bc899c5b6ff766c8e005f27760e579068540d056b1fa10b63a.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png" group-title="台湾频道",天才衝衝衝
-https://video.mytvsuper.xyz/live/2e5b433abd144ea2d6f93c621d3e1f556c780f5ba73931fbc7fec81b2d447d20.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png" group-title="台湾频道",女人我最大
-https://video.mytvsuper.xyz/live/e24229cc1d2d2b004eef96674034c7420b55aabf87697e1a968eb9c044f377bf.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20231213.png" group-title="台湾频道",一字千金
-https://video.mytvsuper.xyz/live/7ca0b5da78a2adde70159021d8680a104389ce247088a281f0ab6a8a1bf8553f.m3u8?token=683950868802619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png" group-title="台湾频道",11點熱吵店
-https://video.mytvsuper.xyz/live/13867e57bfbb7329b45a0ec4ef182752861130040190cf81644d14dc2eb84623.m3u8?token=683950868802619
