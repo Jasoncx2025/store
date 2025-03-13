@@ -895,38 +895,3 @@ https://ofiii.in.6726178.xyz:40080/index.m3u8?pid=ofiii182&sd=1080
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾4GTV&ofiii",删除缓存
 https://ofiii.in.6726178.xyz:40080/clear_all_cache
 
-#EXTM3U url-tvg="[XML_EPG]"
-http://fl1.moveonjoy.com/TCM/index.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="115" channel-number="115",Tennis Channel
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="116" channel-number="116",TLC (The Learning Channel) East
-http://fl2.moveonjoy.com/TLC/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="117" channel-number="117",TNT East
-http://fl2.moveonjoy.com/TNT/index.m3u8
-
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="118" channel-number="118",truTV East
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="119" channel-number="119",TVLand
-http://fl2.moveonjoy.com/TV_Land/index.m3u8
-
-#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="Live TV (MoveOnJoy)" streamId="120" channel-number="120",TVOne
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="121" channel-number="121",VH1 East
-http://fl2.moveonjoy.com/VH1/index.m3u8
-
-#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="122" channel-number="122",Vice
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-
-#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="123" channel-number="123",Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="124" channel-number="124",WeTV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="125" channel-number="125",YES Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
