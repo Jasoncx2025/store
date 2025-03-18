@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
+IP-CIDR,172.18.10.2/32,no-resolve
+
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
