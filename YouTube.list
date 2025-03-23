@@ -1,7 +1,5 @@
 # NAME: YouTube
 # AUTHOR: Jasoncx2025
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,pikpak.com
 IP-CIDR,199.16.158.0/24,no-resolve
 
 # YouTube
