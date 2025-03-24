@@ -283,8 +283,6 @@ https://video.mytvsuper.xyz/live/5ba150a5f98117d3ae5af7af69286b6246667ce9ff8aff3
 https://video.mytvsuper.xyz/live/ae0a67f06e2b06bba7841476a0aa50a49d72f46fd9cbd056f3e397e9dfb9fd8a.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="香港视频",美亞電影台
 https://video.mytvsuper.xyz/live/835886f1f0cf2cb10032aedc35dfd1a058bfe33cdd5eecd971af91ecdb40d93c.m3u8?token=683950868832691
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="香港视频",amc电影台
-https://video.mytvsuper.xyz/live/7f66b87ca100a2e11dd772516e395adae3d83bcd046a457e7fedc51f0c6af1f4.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="Channel 5 HD" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5.png" group-title="香港视频",Channel 5 HD
 https://video.mytvsuper.xyz/live/b6098d930019e57199a80503760f148fa40633c781ca94bd5687c935dcb5c0ed.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="Channel 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/220px-Mediacorp_Channel_8_2023.svg.png" group-title="香港视频",Channel 8 HD
@@ -303,8 +301,6 @@ https://video.mytvsuper.xyz/live/38c7c948af07d0850437754790b528ba9006cd8c48e4acd
 https://video.mytvsuper.xyz/live/95a63fcc788c31b2c8ed7990e6427a87281354f645ac08e4092da1c313ed4292.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/娱乐新闻台.png" group-title="香港视频",娛樂新聞台
 https://video.mytvsuper.xyz/live/e91a3d165bb2f61c1a50c9a4042c6a2a8314e7018d9dcbbba79458431c81d0c7.m3u8?token=683950868832691
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="香港视频",寰宇新聞台
-https://video.mytvsuper.xyz/live/65a18dcc912ffeaae7b10c23d3bb6b3245593b7ce6282f66fbe2c42437f7b4ae.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港视频",無線新聞台
 https://video.mytvsuper.xyz/live/ca7506888bf25124e5a819e79da358d721f3f14c135898aedd1403925eb2a3d3.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="TVBUS Drama" tvg-name="TVBUS Drama" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092840/03_TVB-Drama-Banner_1920x1080-1-480x270.jpg" group-title="香港视频",翡翠剧集台（北美）
