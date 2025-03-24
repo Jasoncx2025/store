@@ -335,42 +335,22 @@ https://video.mytvsuper.xyz/live/f814372a7aab80bdccc179e3853f08cc600726c88d742da
 https://video.mytvsuper.xyz/live/70f0666cd11366112398888c8cb7486d1915a587a6b91742431ce512c9959609.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="香港视频",無線衛星新聞台
 https://video.mytvsuper.xyz/live/916d644f27d09ba42308faf0ac5646e0ba6a9ed1ca6ff9bc86d1736dbe89d770.m3u8?token=683950868832691
-#EXTINF:-1 tvg-id="东森新闻台" tvg-logo="https://i.ytimg.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="香港视频", 東森新聞[YouTube]
-https://video.mytvsuper.xyz/live/d1c2f7b9db20da297a752aa6c106c5d32e6c7740d57490b871c11255e9891c79.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="NHK东京　総合" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1024px-NHK_General_TV_logo.svg.png" group-title="香港视频", NHK东京総合
 https://video.mytvsuper.xyz/live/4e784081736b7a9b0be8ef5af745fa57d52e84db8bace0238e03067f0aba9873.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="香港视频",AXN
 https://video.mytvsuper.xyz/live/b3239f74eb3ba47ec985a3b97696544a8e789a9de7ccedaed1309d1267252796.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="Love-Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="香港视频",Love Nature
 https://video.mytvsuper.xyz/live/7950aa781111835b560de0fc7a6d72b7ffc8bb8f0578db98deb37d3500f4c538.m3u8?token=683950868832691
-#EXTINF:-1 tvg-id="LoveTV Channels" tvg-logo="https://lovetvchannels.com/sites/default/files/logotipos_de_bloque/Logo%20Love%20The%20Planet%20para%20nuestros%20canales_0.png" group-title="香港视频",LoveTV Channels
-https://video.mytvsuper.xyz/live/60e3296276c6e8cc289a053ddf70bef10ca11b47935ba5e63a670fdaa65e3bc5.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="xite hits" tvg-logo="https://media-s3-us-east-1.ceros.com/azerion/images/2023/04/17/ea4d8ca6c2cbf637337d03408cb496f1/xite-logo-big-white.png?imageOpt=1&fit=bounds&width=500" group-title="香港视频",Xite hits
 https://video.mytvsuper.xyz/live/c12951d6d0a088bbfc87f0cfe48e66e4adb45468ef17a60666941a3f7322da1d.m3u8?token=683950868832691
-#EXTINF:-1 tvg-id="HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="香港视频",HITS频道
-https://video.mytvsuper.xyz/live/74669cc829e7229b5cc10546127e79aa05125c266b4e8f3ddd3c46971f1c55a9.m3u8?token=683950868832691
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="香港视频",TVBS精采台
-https://video.mytvsuper.xyz/live/b459e739846b3bfa0e193e53d9990a5b2190b7591827a822f7f8887e346b854d.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="日テレNEWS24" tvg-name="日テレNEWS24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/1200px-News24.svg.png" group-title="香港视频",日テレNEWS24
 https://video.mytvsuper.xyz/live/c4b9031734b42f7db1fa279147b8c12fa0402a6556b73c42489dfe31eca738e8.m3u8?token=683950868832691
 #EXTINF:-1 tvg-id="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港视频",viuTV
 https://video.mytvsuper.xyz/live/763853042c6995aef8150cf2ccb81e5df450d5adbc437ce33d4a6d7ff4b09986.m3u8?token=683950868832691
-#EXTINF:-1 tvg-name="Channel 5" tvg-name="" tvg-id="Channel 5" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5.png" group-title="香港视频",新加坡CH 5[备用]
-https://video.mytvsuper.xyz/live/928232272242d9adf5d288bfabca96bf05fdb22e69e420b4ce7321855c0722d4.m3u8?token=683950868832691
-#EXTINF:-1 tvg-name="Channel 8" tvg-id="Channel 8" tvg-logo="https://epg.112114.xyz/logo/CHANNEL8.png" group-title="香港视频",新加坡CH 8[备用]
-https://video.mytvsuper.xyz/live/3f31fd954b3ea220e06b2a35fc58b6e6906e9b26baa3989e328a45de3b7120e9.m3u8?token=683950868832691
-#EXTINF:-1 tvg-name="Channel U" tvg-id="Channel U" tvg-logo="https://epg.112114.xyz/logo/CHANNELU.png" group-title="香港视频",新加坡CH U[备用]
-https://video.mytvsuper.xyz/live/8e3b4144354b2f671538da8bdb53d724aeb7a35323c0d59d0af41999dce9a259.m3u8?token=683950868832691
 #EXTINF:-1 tvg-name="CINEMAWORLD" tvg-id="CINEMAWORLD" tvg-logo="https://epg.112114.xyz/logo/CINEMAWORLD.png" group-title="香港视频",电影世界频道
 https://video.mytvsuper.xyz/live/bc69a6e913073a477229116faa908fb3a3be0723fcce7bb5b1ef20803998a7b6.m3u8?token=683950868832691
 #EXTINF:-1 tvg-name="FIGHTSPORTSHD" tvg-id="FIGHTSPORTSHD" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="香港视频",搏击运动频道
 https://video.mytvsuper.xyz/live/256daf46327251c57981d24f02de0b0b033e398b303564810e9b4b7349746dcc.m3u8?token=683950868832691
-#EXTINF:-1 tvg-name="" tvg-id="KIX" tvg-logo="https://epg.112114.xyz/logo/KIX.png" group-title="香港视频",KIX
-https://video.mytvsuper.xyz/live/30363b38b14f8d6fec36b5102ea69e38f4ab1e91c7adc2b79b99375165a8c724.m3u8?token=683950868832691
-#EXTINF:-1,tvg-id="lovenature4K" tvg-name="lovenature4K" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE4K.png" group-title="香港视频",Love Nature 4K
-https://video.mytvsuper.xyz/live/4ce69b6a3290e87d36734b64335e434bcfb44bf4becc5250d73082ce7f15276d.m3u8?token=683950868832691
-#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/法国时尚.png" group-title="香港视频",法国时尚4K
-https://video.mytvsuper.xyz/live/321b7bcc2d9fe3f4de02bdb89c7bec596458409a93b8383493891a6c029460fe.m3u8?token=683950868832691
 
 #EXTM3U x-tvg-url="https://epg.doube.eu.org/ofiii.xml"
 #EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="台湾ofiii直播",台視
