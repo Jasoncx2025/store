@@ -267,6 +267,23 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="成人",Русская 
+http://188.113.190.15/318/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers" group-title="成人",Brazzers
+http://23.237.100.82:8000/BRAZZERS/index.m3u8  
+#EXTINF:-1 tvg-name="Hustler" group-title="成人",Hustler
+http://23.237.100.82:8000/HUSTLER/index.m3u8  
+#EXTINF:-1 tvg-name="PentHouse" group-title="成人",PentHouse
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 tvg-name="Playboy" group-title="成人",Playboy
+http://23.237.100.82:8000/PLAYBOY/index.m3u8  
+#EXTINF:-1 tvg-name="PureTaboo" group-title="成人",PureTaboo
+http://78.47.224.234/puretaboo/index.m3u8
+#EXTINF:-1 tvg-name="Redlight" group-title="成人",Redligh HD
+http://51.159.102.100/RedlightHD/index.m3u8
+#EXTINF:-1 tvg-name="PentHouseGold" group-title="成人",PentHouse Gold
+http://51.159.102.100/PenthouseGold/index.m3u8 
+
 
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="香港视频",鳳凰中文
