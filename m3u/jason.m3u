@@ -341,39 +341,39 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="香港视频",鳳凰中文
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="香港视频",鳳凰資訊
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="香港视频",鳳凰香港
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港视频",翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港视频",翡翠台4K
-http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="香港视频",黃金翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="香港视频",千禧經典台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBUS Drama" tvg-name="TVBUS Drama" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092840/03_TVB-Drama-Banner_1920x1080-1-480x270.jpg" group-title="香港视频",翡翠剧集台（北美）
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBUS J1" tvg-name="TVBUS J1"tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092859/05_TVBJ1-Banner_1920x1080-480x270.jpg" group-title="香港视频",翡翠综合台（北美）
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/娱乐新闻台.png" group-title="香港视频",娛樂新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港视频",無線新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBUS Pearl Drama" tvg-name="TVBUS Pearl Drama" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10093209/06_TVB-Pearl-Banner_1920x1080-480x270.jpg" group-title="香港视频",明珠剧集台（北美）
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港视频",明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBUS News" tvg-name="TVBanywhere News" tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092909/04_TVB-News-Banner_1920x1080-480x270.jpg" group-title="香港视频",无线新闻台（北美）
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="香港视频",AXN
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="Love-Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="香港视频",Love Nature HD
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 group-title="香港视频",National Geographic
-http://aktv_stream1.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
 
 #EXTM3U x-tvg-url="https://epg.doube.eu.org/ofiii.xml"
 #EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="台湾ofiii直播",台視
