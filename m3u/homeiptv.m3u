@@ -1,251 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="自家央视",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="深圳央视",CCTV-1
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.86:5146
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="自家央视",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="深圳央视",CCTV-2
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.137:5146
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="自家央视",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="深圳央视",CCTV-3
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.169:5146
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="自家央视",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="深圳央视",CCTV-4
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.78:5146
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="自家央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="深圳央视",CCTV-5
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.170:5146
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="自家央视",CCTV5＋体育
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="深圳央视",CCTV5＋体育
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.87:5146
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="自家央视",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="深圳央视",CCTV-6
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.171:5146
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="自家央视",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="深圳央视",CCTV-7
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.138:5146
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="自家央视",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="深圳央视",CCTV-8
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.172:5146
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="自家央视",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="深圳央视",CCTV-9
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.135:5146
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="自家央视",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="深圳央视",CCTV-10
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.134:5146
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="自家央视",CCTV-11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="深圳央视",CCTV-11
 https://itv.in.6726178.xyz:40080/rtp/239.77.1.238:5146
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="自家央视",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="深圳央视",CCTV-12
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.136:5146
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="自家央视",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="深圳央视",CCTV-13
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.188:5146
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="自家央视",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="深圳央视",CCTV-14
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.133:5146
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="自家央视",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="深圳央视",CCTV-15
 https://itv.in.6726178.xyz:40080/rtp/239.77.1.239:5146
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="自家央视",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="深圳央视",CCTV-16
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="自家央视",CCTV-17农业
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.198:5146
-#EXTINF:-1 group-title="自家央视",世界地理
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.24:5146
-#EXTINF:-1 group-title="自家央视",怀旧剧场
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.25:5146
-#EXTINF:-1 group-title="自家央视",央视精品
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.27:5146
-#EXTINF:-1 group-title="自家央视",第一剧场
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.28:5146
-#EXTINF:-1 group-title="自家央视",风云剧场
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.26:5146
-#EXTINF:-1 group-title="自家央视",风云音乐
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.29:5146
-#EXTINF:-1 group-title="自家央视",爱体育
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.176:5146
-#EXTINF:-1 group-title="自家央视",风云足球
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.20:5146
-#EXTINF:-1 group-title="自家央视",央视台球
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.21:5146
-#EXTINF:-1 group-title="自家央视",高尔夫网球
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.22:5146
-#EXTINF:-1 group-title="自家央视",女性时尚
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.23:5146
-#EXTINF:-1 group-title="自家央视",卫生健康
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.212:5146
-#EXTINF:-1 group-title="自家央视",早期教育
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.180:5146
-#EXTINF:-1 group-title="自家央视",兵器科技
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.18:5146
-#EXTINF:-1 group-title="自家央视",电视指南
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.19:5146
-#EXTINF:-1 group-title="自家央视",CCTV4中文国际欧洲
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="深圳央视",CCTV-17农业
+#EXTINF:-1 group-title="深圳央视",CCTV4中文国际欧洲
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.120:5146
-#EXTINF:-1 group-title="自家央视",CCTV4中文国际美洲
+#EXTINF:-1 group-title="深圳央视",CCTV4中文国际美洲
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.121:5146
-#EXTINF:-1 group-title="自家央视",CGTN英语
+#EXTINF:-1 group-title="深圳央视",CGTN英语
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.199:5146
-#EXTINF:-1 group-title="自家央视",CGTN英文记录
+#EXTINF:-1 group-title="深圳央视",CGTN英文记录
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.122:5146
-#EXTINF:-1 group-title="自家央视",CGTN西班牙语
+#EXTINF:-1 group-title="深圳央视",CGTN西班牙语
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.221:5146
-#EXTINF:-1 group-title="自家央视",CGTN法语
+#EXTINF:-1 group-title="深圳央视",CGTN法语
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.228:5146
-#EXTINF:-1 group-title="自家央视",CGTN阿拉伯语
+#EXTINF:-1 group-title="深圳央视",CGTN阿拉伯语
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.200:5146
-#EXTINF:-1 group-title="自家央视",CGTN俄语
+#EXTINF:-1 group-title="深圳央视",CGTN俄语
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.201:5146
+https://itv.in.6726178.xyz:40080/rtp/239.77.0.198:5146
+#EXTINF:-1 group-title="深圳央视",世界地理
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.24:5146
+#EXTINF:-1 group-title="深圳央视",怀旧剧场
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.25:5146
+#EXTINF:-1 group-title="深圳央视",央视精品
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.27:5146
+#EXTINF:-1 group-title="深圳央视",第一剧场
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.28:5146
+#EXTINF:-1 group-title="深圳央视",风云剧场
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.26:5146
+#EXTINF:-1 group-title="深圳央视",风云音乐
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.29:5146
+#EXTINF:-1 group-title="深圳央视",爱体育
+https://itv.in.6726178.xyz:40080/rtp/239.77.0.176:5146
+#EXTINF:-1 group-title="深圳央视",风云足球
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.20:5146
+#EXTINF:-1 group-title="深圳央视",央视台球
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.21:5146
+#EXTINF:-1 group-title="深圳央视",高尔夫网球
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.22:5146
+#EXTINF:-1 group-title="深圳央视",女性时尚
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.23:5146
+#EXTINF:-1 group-title="深圳央视",卫生健康
+https://itv.in.6726178.xyz:40080/rtp/239.77.0.212:5146
+#EXTINF:-1 group-title="深圳央视",早期教育
+https://itv.in.6726178.xyz:40080/rtp/239.77.0.180:5146
+#EXTINF:-1 group-title="深圳央视",兵器科技
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.18:5146
+#EXTINF:-1 group-title="深圳央视",电视指南
+https://itv.in.6726178.xyz:40080/rtp/239.253.43.19:5146
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="自家卫视",湖南卫视
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="深圳卫视",湖南卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.88:5146
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="自家卫视",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="深圳卫视",浙江卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.89:5146
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="自家卫视",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="深圳卫视",江苏卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.90:5146
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="自家卫视",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="深圳卫视",东方卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.98:5146
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="自家卫视",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="深圳卫视",安徽卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.183:5146
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="自家卫视",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="深圳卫视",北京卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.91:5146
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="自家卫视",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="深圳卫视",天津卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.97:5146
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="自家卫视",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="深圳卫视",山东卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.94:5146
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="自家卫视",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="深圳卫视",江西卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.149:5146
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="自家卫视",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="深圳卫视",深圳卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.92:5146
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="自家卫视",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="深圳卫视",湖北卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.95:5146
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="自家卫视",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="深圳卫视",辽宁卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.123:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="自家卫视",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="深圳卫视",黑龙江卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.93:5146
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="自家卫视",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="深圳卫视",贵州卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.230:5146
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="自家卫视",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="深圳卫视",四川卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.159:5146
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="自家卫视",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="深圳卫视",河南卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.17:5146
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="自家卫视",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="深圳卫视",云南卫视
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.100:5146
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="自家卫视",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="深圳卫视",重庆卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.182:5146
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="自家卫视",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="深圳卫视",河北卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.148:5146
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="自家卫视",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="深圳卫视",东南卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.146:5146
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="自家卫视",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="深圳卫视",广东卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.84:5146
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="自家卫视",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="深圳卫视",广西卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.139:5146
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="自家卫视",吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="深圳卫视",吉林卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.150:5146
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="自家卫视",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="深圳卫视",陕西卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.68:5146
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="自家卫视",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="深圳卫视",山西卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.69:5146
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="自家卫视",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="深圳卫视",内蒙古卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.70:5146
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="自家卫视",青海卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="深圳卫视",青海卫视
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.125:5146
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="自家卫视",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="深圳卫视",海南卫视
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.101:5146
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="自家卫视",宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="深圳卫视",宁夏卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.73:5146
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="自家卫视",西藏卫视
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="深圳卫视",西藏卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.74:5146
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="自家卫视",新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="深圳卫视",新疆卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.75:5146
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="自家卫视",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="深圳卫视",甘肃卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.189:5146
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="自家卫视",兵团卫视
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="深圳卫视",兵团卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.77:5146
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="自家卫视",三沙卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="深圳卫视",三沙卫视
 https://itv.in.6726178.xyz:40080/rtp/239.253.43.113:5146
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="自家卫视",吉林延边卫视
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="深圳卫视",吉林延边卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.10:5146
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="自家卫视",厦门卫视
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="深圳卫视",厦门卫视
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.96:5146
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="自家卫视",大湾区卫视
-
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.215:5146
-#EXTINF:-1 group-title="自家地方",金鹰纪实
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.160:5146
-#EXTINF:-1 group-title="自家地方",上海纪实
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.147:5146
-#EXTINF:-1 group-title="自家地方",广东少儿
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.250:5146
-#EXTINF:-1 group-title="自家地方",广东珠江
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.1:5146
-#EXTINF:-1 group-title="自家地方",广东新闻
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.173:5146
-#EXTINF:-1 group-title="自家地方",广东民生
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.225:5146
-#EXTINF:-1 group-title="自家地方",广东体育
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.112:5146
-#EXTINF:-1 group-title="自家地方",广东影视
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.217:5146
-#EXTINF:-1 group-title="自家地方",广东移动
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.20:5146
-#EXTINF:-1 group-title="自家地方",惠州综合
-https://itv.in.6726178.xyz:40080/rtp/239.77.1.232:5146
-#EXTINF:-1 group-title="自家地方",惠州都市生活
-https://itv.in.6726178.xyz:40080/rtp/239.77.1.233:5146
-#EXTINF:-1 group-title="自家地方",岭南戏曲
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.122:5146
-#EXTINF:-1 group-title="自家地方",山东教育
-
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.83:5146
-#EXTINF:-1 group-title="自家数字",CHC影迷电影
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.27:5146
-#EXTINF:-1 group-title="自家数字",爱电影
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.103:5146
-#EXTINF:-1 group-title="自家数字",经典电影
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.104:5146
-#EXTINF:-1 group-title="自家数字",爱大剧
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.105:5146
-#EXTINF:-1 group-title="自家数字",热播剧场
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.106:5146
-#EXTINF:-1 group-title="自家数字",卡酷动画
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.79:5146
-#EXTINF:-1 group-title="自家数字",金鹰卡通
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.164:5146
-#EXTINF:-1 group-title="自家数字",炫动卡通
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.81:5146
-#EXTINF:-1 group-title="自家数字",少儿动画
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.109:5146
-#EXTINF:-1 group-title="自家数字",嘉佳卡通
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.179:5146
-#EXTINF:-1 group-title="自家数字",优漫卡通
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.222:5146
-#EXTINF:-1 group-title="自家数字",爱综艺
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.107:5146
-#EXTINF:-1 group-title="自家数字",爱体育
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.108:5146
-#EXTINF:-1 group-title="自家数字",财富天下
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.113:5146
-#EXTINF:-1 group-title="自家数字",现代教育
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.213:5146
-#EXTINF:-1 group-title="自家数字",经济科教
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.85:5146
-#EXTINF:-1 group-title="自家数字",中国交通
-https://itv.in.6726178.xyz:40080/rtp/239.77.1.249:5146
-#EXTINF:-1 group-title="自家数字",茶
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.15:5146
-#EXTINF:-1 group-title="自家数字",快乐垂钓
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.145:5146
-#EXTINF:-1 group-title="自家数字",天元围棋
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.98:5146
-#EXTINF:-1 group-title="自家数字",汽摩
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.209:5146
-#EXTINF:-1 group-title="自家数字",老故事
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.220:5146
-#EXTINF:-1 group-title="自家数字",国学
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.226:5146
-#EXTINF:-1 group-title="自家数字",求索纪录
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.21:5146
-#EXTINF:-1 group-title="自家数字",魅力时尚
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.110:5146
-#EXTINF:-1 group-title="自家数字",CETV2
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.28:5146
-#EXTINF:-1 group-title="自家数字",CETV4
-https://itv.in.6726178.xyz:40080/rtp/239.253.43.114:5146
-#EXTINF:-1 group-title="自家数字",IPTV谍战剧场
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.99:5146
-#EXTINF:-1 group-title="自家数字",IPTV相声小品
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.100:5146
-#EXTINF:-1 group-title="自家数字",IPTV野外
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.101:5146
-#EXTINF:-1 group-title="自家数字",IPTV法治
-https://itv.in.6726178.xyz:40080/rtp/239.77.0.102:5146
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="深圳卫视",大湾区卫视
 
 #EXTINF:-1 group-title="武汉央视",CCTV1HD
 http://10.11.13.1:8686/udp/239.254.96.96:8550
