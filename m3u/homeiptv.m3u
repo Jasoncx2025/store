@@ -247,6 +247,59 @@ https://itv.in.6726178.xyz:40080/rtp/239.77.0.101:5146
 #EXTINF:-1 group-title="自家数字",IPTV法治
 https://itv.in.6726178.xyz:40080/rtp/239.77.0.102:5146
 
+#EXTINF:-1 group-title="武汉央视",CCTV1HD
+http://10.11.13.1:8686/udp/239.254.96.96:8550
+#EXTINF:-1 group-title="武汉央视",CCTV2HD
+http://10.11.13.1:8686/udp/239.69.1.102:10250
+#EXTINF:-1 group-title="武汉央视",CCTV3HD
+http://10.11.13.1:8686/udp/239.69.1.122:10370
+#EXTINF:-1 group-title="武汉央视",CCTV4HD
+http://10.11.13.1:8686/udp/239.69.1.138:10466
+#EXTINF:-1 group-title="武汉央视",CCTV5HD
+http://10.11.13.1:8686/udp/239.69.1.123:10376
+#EXTINF:-1 group-title="武汉央视",CCTV5+HD
+http://10.11.13.1:8686/udp/239.254.96.234:9484
+#EXTINF:-1 group-title="武汉央视",CCTV6HD
+http://10.11.13.1:8686/udp/239.69.1.124:10382
+#EXTINF:-1 group-title="武汉央视",CCTV7HD
+http://10.11.13.1:8686/udp/239.69.1.103:10256               
+#EXTINF:-1 group-title="武汉央视",CCTV8HD
+http://10.11.13.1:8686/udp/239.69.1.125:10388
+#EXTINF:-1 group-title="武汉央视",CCTV9HD
+http://10.11.13.1:8686/udp/239.69.1.104:10262
+#EXTINF:-1 group-title="武汉央视",CCTV10HD
+http://10.11.13.1:8686/udp/239.69.1.105:10268
+#EXTINF:-1 group-title="武汉央视",CCTV11HD
+http://10.11.13.1:8686/udp/239.69.1.154:10560
+#EXTINF:-1 group-title="武汉央视",CCTV12HD
+http://10.11.13.1:8686/udp/239.69.1.106:10274
+#EXTINF:-1 group-title="武汉央视",CCTV13HD
+http://10.11.13.1:8686/udp/239.254.96.161:9040
+#EXTINF:-1 group-title="武汉央视",CCTV14HD
+http://10.11.13.1:8686/udp/239.69.1.107:10280
+#EXTINF:-1 group-title="武汉央视",CCTV15HD
+http://10.11.13.1:8686/udp/239.69.1.155:10566
+#EXTINF:-1 group-title="武汉央视",CCTV16HD
+http://10.11.13.1:8686/udp/239.69.1.247:11124
+#EXTINF:-1 group-title="武汉央视",CCTV17HD
+http://10.11.13.1:8686/udp/239.69.1.152:10548
+#EXTINF:-1 group-title="武汉央视",CCTV4中文国际欧洲HD
+http://10.11.13.1:8686/udp/239.69.1.231:11028
+#EXTINF:-1 group-title="武汉央视",CCTV4中文国际美洲HD
+http://10.11.13.1:8686/udp/239.69.1.232:11034  
+#EXTINF:-1 group-title="武汉央视",CGTN英文纪录HD
+http://10.11.13.1:8686/udp/239.69.1.233:11040 
+#EXTINF:-1 group-title="武汉央视",CGTN西班牙语HD
+http://10.11.13.1:8686/udp/239.69.1.234:11046
+#EXTINF:-1 group-title="武汉央视",CGTN法语HD
+http://10.11.13.1:8686/udp/239.69.1.235:11052
+#EXTINF:-1 group-title="武汉央视",CGTN阿拉伯语HD
+http://10.11.13.1:8686/udp/239.69.1.221:10968
+#EXTINF:-1 group-title="武汉央视",CGTN俄语HD
+http://10.11.13.1:8686/udp/239.69.1.222:10974
+#EXTINF:-1 group-title="武汉央视",CGTN英语HD
+http://10.11.13.1:8686/udp/239.254.96.175:9124
+
 #EXTM3U
 #EXTINF:-1 group-title="香港视频",鳳凰中文
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
