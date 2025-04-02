@@ -391,22 +391,6 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="成人",Русская 
-http://188.113.190.15/318/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Brazzers" group-title="成人",Brazzers
-http://23.237.100.82:8000/BRAZZERS/index.m3u8  
-#EXTINF:-1 tvg-name="Hustler" group-title="成人",Hustler
-http://23.237.100.82:8000/HUSTLER/index.m3u8  
-#EXTINF:-1 tvg-name="PentHouse" group-title="成人",PentHouse
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 tvg-name="Playboy" group-title="成人",Playboy
-http://23.237.100.82:8000/PLAYBOY/index.m3u8  
-#EXTINF:-1 tvg-name="PureTaboo" group-title="成人",PureTaboo
-http://78.47.224.234/puretaboo/index.m3u8
-#EXTINF:-1 tvg-name="Redlight" group-title="成人",Redligh HD
-http://51.159.102.100/RedlightHD/index.m3u8
-#EXTINF:-1 tvg-name="PentHouseGold" group-title="成人",PentHouse Gold
-http://51.159.102.100/PenthouseGold/index.m3u8 
 
 #EXTINF:-1 group-title="港澳视频",凤凰卫视
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -466,9 +450,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 
 #EXTM3U
 #EXTINF:-1 group-title="香港视频",鳳凰中文
+https://itv.wu.6726178.xyz:40080/udp/239.69.2.20:11274
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 http://47.76.146.40:2095/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 #EXTINF:-1 group-title="香港视频",鳳凰資訊
+https://itv.wu.6726178.xyz:40080/udp/239.69.2.19:11268
 http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 http://47.76.146.40:2095/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 #EXTINF:-1 group-title="香港视频",鳳凰香港
