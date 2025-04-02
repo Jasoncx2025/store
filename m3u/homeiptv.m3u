@@ -283,9 +283,11 @@ https://itv.wu.6726178.xyz:40080/udp/239.254.96.48:8262
 
 #EXTM3U
 #EXTINF:-1 group-title="香港视频",鳳凰中文
+https://itv.wu.6726178.xyz:40080/udp/239.69.2.20:11274
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 http://47.76.146.40:2095/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 #EXTINF:-1 group-title="香港视频",鳳凰資訊
+https://itv.wu.6726178.xyz:40080/udp/239.69.2.19:11268
 http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 http://47.76.146.40:2095/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 #EXTINF:-1 group-title="香港视频",鳳凰香港
