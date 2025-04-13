@@ -1,10 +1,10 @@
 !Title: Jsdon-AD-List
 !Version: 20250413
 !Link: https://raw.githubusercontent.com/Jasoncx2025/store/refs/heads/main/ad/jason-ad-list.txt
-!Total lines: 80952
-@@||stats.g.doubleclick.net^
-@@||browser.sentry-cdn.com^
-@@||app.getsentry.com^
-@@||ads.pinterest.com^
-@@||appmetrica.yandex.ru^
-@@||metrics.icloud.com^
+!Total lines: 6
+||stats.g.doubleclick.net^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||ads.pinterest.com^
+||appmetrica.yandex.ru^
+||metrics.icloud.com^
