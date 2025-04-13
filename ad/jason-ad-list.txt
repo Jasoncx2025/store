@@ -23,6 +23,7 @@
 @@||ad.12306.cn^$important
 
 ||stats.g.doubleclick.net^
+||static.doubleclick.net^
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 ||ads.pinterest.com^
