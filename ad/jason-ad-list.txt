@@ -2,6 +2,26 @@
 !Version: 20250413
 !Link: https://raw.githubusercontent.com/Jasoncx2025/store/refs/heads/main/ad/jason-ad-list.txt
 !Total lines: 6
+
+@@||laowangappb93ibiu.cihiu487giuew87lk.xyz^$important
+@@||githubusercontent.com^$important
+@@||github.com^$important
+@@||pikpak.com^$important
+@@||mypikpak.com^$important
+@@||mytvsuper.com^$important
+@@||mytvsuper.xyz^$important
+@@||umate.me^$important
+@@||api.amplitude.com^$client='172.18.10.1'
+@@||cool18.com^$important
+@@||logs.netflix.com^$important
+@@||www.google-analytics.com^$important
+@@||app-measurement.com^$important
+@@||static.doubleclick.net^$important
+@@||ad1.in.6726178.xyz^$important
+@@||ad2.in.6726178.xyz^$important
+@@||gvt2.com^$important
+@@||ad.12306.cn^$important
+
 ||stats.g.doubleclick.net^
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
