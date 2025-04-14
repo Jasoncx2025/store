@@ -283,6 +283,14 @@ https://itv.wu.6726178.xyz:40080/udp/239.254.96.48:8262
 
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港频道",凤凰中文
+https://itv.wu.6726178.xyz:40080/udp/239.69.2.20:11274
+http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="香港频道",凤凰资讯
+https://itv.wu.6726178.xyz:40080/udp/239.69.2.19:11268
+http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="香港频道",凤凰香港
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="香港频道",千禧經典台(HK)
 http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 group-title="香港频道",娛樂新聞台(HK)
