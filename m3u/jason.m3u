@@ -1851,3 +1851,34 @@ http://85.237.207.75:24511/4gtv-live122/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="生活旅遊",幸福空間居家台
 http://85.237.207.75:24511/4gtv-live206/index.m3u8?proxy=true
 
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童卡通",DreamWorks
+http://85.237.207.75:24511/4gtv-live017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
+http://85.237.207.75:24511/litv-longturn01/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn01/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通
+http://85.237.207.75:24511/4gtv-4gtv044/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
+http://85.237.207.75:24511/4gtv-4gtv057/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="兒童卡通",精選動漫台
+http://85.237.207.75:24511/4gtv-live024/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通",經典卡通台
+http://85.237.207.75:24511/4gtv-live022/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
+http://85.237.207.75:24511/4gtv-4gtv018/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv018/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童卡通",MOMO親子
+http://85.237.207.75:24511/4gtv-live107/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童卡通",LiveABC 互動英語台
+http://85.237.207.75:24511/4gtv-live030/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
+http://85.237.207.75:24511/litv-longturn20/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn20/index.m3u8?proxy=true
+http://85.237.207.75:24511/of-litv-longturn20/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通",Nick Jr.
+http://85.237.207.75:24511/4gtv-live032/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通",Nickelodeon
+http://85.237.207.75:24511/4gtv-live105/index.m3u8?proxy=true
+
