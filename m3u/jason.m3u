@@ -1695,3 +1695,75 @@ http://85.237.207.75:24511/4gtv-live060/index.m3u8?proxy=true
 http://85.237.207.75:24511/4gtv-live059/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="新聞財經",FRANCE24 英文台
 http://85.237.207.75:24511/4gtv-live146/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
+http://85.237.207.75:24511/litv-ftv09/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-ftv09/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
+http://85.237.207.75:24511/4gtv-4gtv080/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
+http://85.237.207.75:24511/4gtv-4gtv042/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
+http://85.237.207.75:24511/4gtv-live088/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="電影戲劇",HITS
+http://85.237.207.75:24511/4gtv-live620/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="電影戲劇",經典電影台
+http://85.237.207.75:24511/4gtv-live021/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
+http://85.237.207.75:24511/litv-longturn21/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
+http://85.237.207.75:24511/litv-longturn03/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn03/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
+http://85.237.207.75:24511/litv-longturn02/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn02/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
+http://85.237.207.75:24511/litv-longturn12/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn12/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
+http://85.237.207.75:24511/litv-longturn11/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn11/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
+http://85.237.207.75:24511/litv-longturn18/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-litv-longturn18/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
+http://85.237.207.75:24511/4gtv-4gtv061/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv061/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
+http://85.237.207.75:24511/4gtv-4gtv055/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv055/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
+http://85.237.207.75:24511/4gtv-4gtv058/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv058/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
+http://85.237.207.75:24511/4gtv-4gtv045/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="電影戲劇",ROCK Entertainment
+http://85.237.207.75:24511/4gtv-live080/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="電影戲劇",ROCK Action
+http://85.237.207.75:24511/4gtv-live138/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
+http://85.237.207.75:24511/4gtv-4gtv011/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv011/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
+http://85.237.207.75:24511/4gtv-4gtv017/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv017/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="電影戲劇",Cinema World
+http://85.237.207.75:24511/4gtv-live069/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="電影戲劇",歐洲光影
+http://85.237.207.75:24511/4gtv-live157/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
+http://85.237.207.75:24511/li-litv-longturn22/index.m3u8?proxy=true
+http://85.237.207.75:24511/litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png" group-title="電影戲劇",戲劇免費看1台
+http://85.237.207.75:24511/4gtv-live010/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
+http://85.237.207.75:24511/4gtv-4gtv049/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv049/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="電影戲劇",霹靂布袋戲
+http://85.237.207.75:24511/4gtv-live145/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="電影戲劇",金光布袋戲
+http://85.237.207.75:24511/4gtv-live144/index.m3u8?proxy=true
