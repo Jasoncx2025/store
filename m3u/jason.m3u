@@ -1767,3 +1767,40 @@ http://85.237.207.75:24511/li-4gtv-4gtv049/index.m3u8?proxy=true
 http://85.237.207.75:24511/4gtv-live145/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="電影戲劇",金光布袋戲
 http://85.237.207.75:24511/4gtv-live144/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="音樂綜藝",MTV Live
+http://85.237.207.75:24511/4gtv-live025/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",Trace Urban
+http://85.237.207.75:24511/4gtv-4gtv082/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv082/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="音樂綜藝",電影原聲台 CMusic
+http://85.237.207.75:24511/4gtv-live031/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",MEZZO LIVE HD
+http://85.237.207.75:24511/4gtv-4gtv083/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv083/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA 古典樂
+http://85.237.207.75:24511/4gtv-4gtv059/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv059/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
+http://85.237.207.75:24511/4gtv-4gtv004/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
+http://85.237.207.75:24511/4gtv-4gtv067/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
+http://85.237.207.75:24511/4gtv-4gtv068/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS綜藝台
+http://85.237.207.75:24511/4gtv-live087/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
+http://85.237.207.75:24511/4gtv-4gtv034/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
+http://85.237.207.75:24511/4gtv-4gtv039/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv039/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
+http://85.237.207.75:24511/4gtv-4gtv070/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv070/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
+http://85.237.207.75:24511/4gtv-4gtv006/index.m3u8?proxy=true
+http://85.237.207.75:24511/li-4gtv-4gtv006/index.m3u8?proxy=true
