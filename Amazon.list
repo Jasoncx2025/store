@@ -1,5 +1,7 @@
 # NAME: Amazon
 # AUTHOR: Jasoncx2025
+DOMAIN-SUFFIX,amazon.fastly-edge.com
+
 
 # Amazon
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Amazon/Amazon.list
