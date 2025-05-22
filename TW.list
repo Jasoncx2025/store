@@ -13,4 +13,4 @@ DOMAIN-KEYWORD,hamivide
 DOMAIN-SUFFIX,live.iptv365.org
 DOMAIN-SUFFIX,tv.iill.top
 DOMAIN-SUFFIX,epg.v1.mk
-5IP-CIDR,9.125.210.231/8,no-resolve
+IP-CIDR,59.125.210.231/8,no-resolve
