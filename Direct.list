@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
 IP-CIDR,85.237.207.75/32,no-resolve
+DOMAIN-SUFFIX,6726178.xyz
 
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
