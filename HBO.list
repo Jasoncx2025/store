@@ -2,6 +2,7 @@
 # AUTHOR: Jasoncx2025
 DOMAIN-SUFFIX,cdn-media.brightline.tv
 DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,asia.skywayplatform.com
 
 # HBO
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
