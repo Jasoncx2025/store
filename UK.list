@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,5f22d76e220e1.streamlock.net
 DOMAIN-SUFFIX,cdn.adultiptv.net
 #DOMAIN-SUFFIX,rr3.tvdosug.net
 DOMAIN-SUFFIX,c6dn.net
+IP-CIDR,162.19.243.184/32,no-resolve
