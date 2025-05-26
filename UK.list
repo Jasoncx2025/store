@@ -1,4 +1,5 @@
 IP-CIDR,88.212.7.11/32,no-resolve
+IP-CIDR,146.59.54.163/32,no-resolve
 DOMAIN-SUFFIX,streamlock.net
 DOMAIN-SUFFIX,cdn.adultiptv.net
 #DOMAIN-SUFFIX,rr3.tvdosug.net
@@ -15,4 +16,4 @@ DOMAIN-SUFFIX,dienalt.org
 DOMAIN-SUFFIX,kazmazpaz.ru
 DOMAIN-SUFFIX,ottclub.xyz
 DOMAIN-SUFFIX,cbilant.com
-IP-CIDR,146.59.54.163,no-resolve
+
