@@ -9,7 +9,7 @@ IP-CIDR,213.183.0.0/16,no-resolve
 IP-CIDR,5.182.0.0/16,no-resolve
 IP-CIDR,194.59.0.0/16,no-resolve
 IP-CIDR,185.6.0.51/16,no-resolve
-
+IP-CIDR,93.189.0.0/16,no-resolve
 
 DOMAIN-SUFFIX,streamlock.net
 DOMAIN-SUFFIX,cdn.adultiptv.net
