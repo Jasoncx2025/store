@@ -1,13 +1,13 @@
 # NAME: HBO
 # AUTHOR: Jasoncx2025
-DOMAIN-SUFFIX,cdn-media.brightline.tv
+DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,discomax.com
-DOMAIN-SUFFIX,asia.skywayplatform.com
+DOMAIN-SUFFIX,skywayplatform.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,apptentive.com
-bDOMAIN-SUFFIX,rightline.tv
+
 
 # HBO
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
