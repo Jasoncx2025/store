@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,asia.skywayplatform.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,apptentive.com
+
 
 # HBO
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
