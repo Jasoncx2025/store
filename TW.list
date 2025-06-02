@@ -1,6 +1,9 @@
+IP-CIDR,59.125.210.231/32,no-resolve
+IP-CIDR,13.112.0.0/16,no-resolve
+
+
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,akamaized.net
-IP-CIDR,13.112.0.0/16,no-resolve
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,livednow.com
@@ -13,5 +16,5 @@ DOMAIN-KEYWORD,hamivide
 DOMAIN-SUFFIX,live.iptv365.org
 DOMAIN-SUFFIX,tv.iill.top
 DOMAIN-SUFFIX,epg.v1.mk
-IP-CIDR,59.125.210.231/32,no-resolve
 DOMAIN-SUFFIX,luong.utako.moe
+DOMAIN-SUFFIX,pendy.dpdns.org
