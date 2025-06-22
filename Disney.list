@@ -2,6 +2,7 @@
 # AUTHOR: Jasoncx2025
 DOMAIN-SUFFIX,mobile-data.onetrust.io
 DOMAIN-SUFFIX,skywayplatform.com
+# DOMAIN-SUFFIX,dssott.com
 # DOMAIN-SUFFIX,prod.dssedge.com
 
 
@@ -127,7 +128,7 @@ DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dlp-media.com
 DOMAIN-SUFFIX,dmed.technology
-DOMAIN-SUFFIX,dssott.com
+
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
 DOMAIN-SUFFIX,edgedatg.com
