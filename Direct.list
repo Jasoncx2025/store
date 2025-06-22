@@ -4,6 +4,8 @@ IP-CIDR,85.237.207.75/32,no-resolve
 IP-CIDR,104.224.158.21/32,no-resolve
 IP-CIDR,183.179.15.125/32,no-resolve
 DOMAIN-SUFFIX,6726178.xyz
+
+# Disney
 DOMAIN-SUFFIX,dssott.com
 
 
