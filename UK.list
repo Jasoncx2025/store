@@ -19,7 +19,7 @@ IP-CIDR,45.151.62.150/32,no-resolve
 IP-CIDR,45.88.138.28/32,no-resolve
 IP-CIDR,87.98.184.134/32,no-resolve
 IP-CIDR,45.88.138.45/32,no-resolve
-IP-CIDR,88.218.243.147/32,no-resolve
+IP-CIDR,88.218.0.0/16,no-resolve
 
 
 DOMAIN-SUFFIX,streamlock.net
