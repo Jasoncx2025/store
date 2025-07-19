@@ -5,6 +5,7 @@ IP-CIDR,206.212.244.0/24,no-resolve
 IP-CIDR,173.208.176.178/32,no-resolve
 IP-CIDR,167.114.175.6/32,no-resolve
 IP-CIDR,173.208.176.178/32,no-resolve
+IP-CIDR,104.21.27.172/32,no-resolve
 
 DOMAIN-SUFFIX,moveonjoy.com
 DOMAIN-SUFFIX,iyaofans.com
