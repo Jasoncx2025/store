@@ -16,7 +16,7 @@ IP-CIDR,31.43.191.211/32,no-resolve
 IP-CIDR,5.79.83.121/32,no-resolve
 IP-CIDR,188.114.73.107/32,no-resolve
 IP-CIDR,45.151.62.150/32,no-resolve
-IP-CIDR,45.88.138.28/32,no-resolve
+#IP-CIDR,45.88.138.28/32,no-resolve
 IP-CIDR,87.98.184.134/32,no-resolve
 IP-CIDR,45.88.138.45/32,no-resolve
 IP-CIDR,88.218.0.0/16,no-resolve
@@ -43,4 +43,4 @@ DOMAIN-SUFFIX,client.nodomain.vip
 DOMAIN-SUFFIX,hdlocal.de
 DOMAIN-SUFFIX,access-cdn.net
 DOMAIN-SUFFIX,mushui.serv00.net
-DOMAIN-SUFFIX,gt.6738hg.com
+#DOMAIN-SUFFIX,gt.6738hg.com
