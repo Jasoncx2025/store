@@ -1,5 +1,5 @@
-IP-CIDR,59.125.210.231/32,no-resolve
 IP-CIDR,13.112.0.0/16,no-resolve
+IP-CIDR,59.125.210.231/32,no-resolve
 IP-CIDR,60.248.127.232/32,no-resolve
 
 DOMAIN-SUFFIX,ofiii.com
