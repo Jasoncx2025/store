@@ -30,7 +30,7 @@ IP-CIDR,87.98.184.134/32,no-resolve
 IP-CIDR,103.253.37.122/32,no-resolve
 IP-CIDR,83.142.85.50/32,no-resolve
 
-
+DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,streamlock.net
 DOMAIN-SUFFIX,cdn.adultiptv.net
 #DOMAIN-SUFFIX,rr3.tvdosug.net
