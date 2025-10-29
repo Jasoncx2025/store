@@ -7,11 +7,13 @@ DOMAIN-SUFFIX,prod.dssedge.com
 
 
 
-# Disney
-# UPDATED: 2024-07-03 16:16:10
-# DOMAIN-SUFFIX: 171
+# NAME: Disney
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Disney/Disney.list
+# UPDATED: 2025-07-30 02:08:18
+# DOMAIN-SUFFIX: 172
 # PROCESS-NAME: 2
-# TOTAL: 173
+# TOTAL: 174
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -128,7 +130,8 @@ DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dlp-media.com
 DOMAIN-SUFFIX,dmed.technology
-
+DOMAIN-SUFFIX,dssedge.com
+DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
 DOMAIN-SUFFIX,edgedatg.com
