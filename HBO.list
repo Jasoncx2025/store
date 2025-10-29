@@ -11,9 +11,10 @@ DOMAIN-SUFFIX,mediamelon.com
 DOMAIN-SUFFIX,media.h264.io
 
 
-# HBO
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
-# UPDATED: 2025-01-15 02:13:02
+# NAME: HBO
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
+# UPDATED: 2025-06-06 09:16:58
 # DOMAIN-SUFFIX: 47
 # PROCESS-NAME: 1
 # TOTAL: 48
