@@ -1,8 +1,10 @@
 # NAME: Game
 # AUTHOR: Jasoncx2025
 
-# Epic
-# UPDATED: 2024-07-03 16:14:50
+# NAME: Epic
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Epic/Epic.list
+# UPDATED: 2025-06-06 09:15:09
 # DOMAIN-SUFFIX: 15
 # TOTAL: 15
 DOMAIN-SUFFIX,battlebreakers.com
@@ -21,8 +23,10 @@ DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 
-# EA
-# UPDATED: 2024-07-03 16:14:50
+# NAME: EA
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/EA/EA.list
+# UPDATED: 2025-06-06 09:15:09
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 163
 # TOTAL: 165
@@ -192,8 +196,10 @@ DOMAIN-SUFFIX,visceralgames.com
 DOMAIN-SUFFIX,xdsummit.com
 DOMAIN-SUFFIX,yogify.com
 
-# Blizzard
-# UPDATED: 2025-02-06 02:12:11
+# NAME: Blizzard
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Blizzard/Blizzard.list
+# UPDATED: 2025-10-28 02:06:53
 # DOMAIN-SUFFIX: 39
 # IP-CIDR: 23
 # TOTAL: 62
@@ -244,24 +250,26 @@ IP-CIDR,210.242.235.6/32,no-resolve
 IP-CIDR,24.105.30.129/32,no-resolve
 IP-CIDR,54.94.196.47/32,no-resolve
 IP-CIDR,182.162.132.1/32,no-resolve
-IP-CIDR,103.4.114.233/32,no-resolve
 IP-CIDR,182.162.116.1/32,no-resolve
 IP-CIDR,202.9.67.59/32,no-resolve
 IP-CIDR,203.69.111.4/32,no-resolve
 IP-CIDR,54.207.104.145/32,no-resolve
-IP-CIDR,185.60.114.159/32,no-resolve
 IP-CIDR,203.66.81.98/32,no-resolve
 IP-CIDR,211.234.110.1/32,no-resolve
-IP-CIDR,24.105.62.129/32,no-resolve
 IP-CIDR,54.207.107.12/32,no-resolve
+IP-CIDR,103.4.114.233/32,no-resolve
+IP-CIDR,185.60.114.159/32,no-resolve
 IP-CIDR,202.9.67.254/32,no-resolve
 IP-CIDR,222.231.22.1/32,no-resolve
+IP-CIDR,24.105.62.129/32,no-resolve
 IP-CIDR,137.221.105.2/32,no-resolve
 IP-CIDR,210.71.148.11/32,no-resolve
 IP-CIDR,211.115.104.1/32,no-resolve
 
-# UBI
-# UPDATED: 2024-07-03 16:14:50
+# NAME: UBI
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/UBI/UBI.list
+# UPDATED: 2025-06-06 09:15:09
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 DOMAIN-SUFFIX,ubi.com
@@ -270,8 +278,10 @@ DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,uplay.com
 
-# Sony
-# UPDATED: 2024-07-03 16:16:11
+# NAME: Sony
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Sony/Sony.list
+# UPDATED: 2025-06-06 09:16:56
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 115
 # TOTAL: 116
@@ -392,8 +402,10 @@ DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
 
-# Nintendo
-# UPDATED: 2024-07-03 16:14:50
+# NAME: Nintendo
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nintendo/Nintendo.list
+# UPDATED: 2025-06-06 09:15:09
 # DOMAIN-SUFFIX: 126
 # IP-CIDR: 1
 # TOTAL: 127
