@@ -1,12 +1,13 @@
 # NAME: GitHub
 # AUTHOR: Jasoncx2025
 
-# GitHub
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
-# UPDATED: 2024-07-03 16:14:51
+# NAME: GitHub
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-12 02:06:19
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 29
-# TOTAL: 30
+# DOMAIN-SUFFIX: 30
+# TOTAL: 31
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev
