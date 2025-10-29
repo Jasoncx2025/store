@@ -1,9 +1,10 @@
 # NAME: Netflix
 # AUTHOR: Jasoncx2025
 
-# Netflix
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
-# UPDATED: 2024-07-03 16:16:10
+# NAME: Netflix
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
+# UPDATED: 2025-06-06 09:16:54
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 30
