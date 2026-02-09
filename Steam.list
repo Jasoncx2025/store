@@ -1,6 +1,13 @@
 # NAME: Steam
 # AUTHOR: Jasoncx2025
 
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-KEYWORD,steamcloud
+
 # NAME: Steam
 # AUTHOR: blackmatrix7
 # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
