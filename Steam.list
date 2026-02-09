@@ -2,10 +2,7 @@
 # AUTHOR: Jasoncx2025
 
 DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-KEYWORD,steamcloud
 
 # NAME: Steam
