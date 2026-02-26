@@ -1,7 +1,6 @@
 IP-CIDR,190.11.225.124/32,no-resolve
 IP-CIDR,23.237.100.82/32,no-resolve
 IP-CIDR,38.41.8.1/32,no-resolve
-IP-CIDR,206.212.244.0/24,no-resolve
 IP-CIDR,173.208.176.178/32,no-resolve
 IP-CIDR,167.114.175.6/32,no-resolve
 IP-CIDR,173.208.176.178/32,no-resolve
@@ -31,7 +30,7 @@ DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,bdta.pro
 DOMAIN-SUFFIX,daxoi.online
 DOMAIN-KEYWORD,iill
-
+DOMAIN-SUFFIX,cord-cutter.net
 
 
 #Judy IPTV
