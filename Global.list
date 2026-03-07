@@ -53,7 +53,6 @@ DOMAIN-SUFFIX,pyproxy.com
 DOMAIN-SUFFIX,laowang.vip
 DOMAIN-SUFFIX,swdwiki.com
 DOMAIN-SUFFIX,tvteam.pro
-IP-CIDR,194.35.227.0/24,no-resolve
 
 
 # liandu2024
