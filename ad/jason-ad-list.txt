@@ -21,7 +21,7 @@
 @@||onewsvod.com
 @@||googleapis.com^$important
 @@||googleads.g.doubleclick.net^$important
-@@||forums.e-hentai.org^$important
+@@||e-hentai.org^$important
 
 ||ylvmic.cn
 ||v1s4c6.vip
