@@ -72,6 +72,8 @@ DOMAIN-SUFFIX,uptodown.net
 DOMAIN-SUFFIX,live.ottiptv.cc
 DOMAIN-SUFFIX,cdn.qd.je
 
+
+
 # liandu2024
 # https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Proxy.list
 # IP段匹配
@@ -80,6 +82,8 @@ IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 IP-CIDR,95.161.76.0/24,no-resolve
 IP-CIDR,142.251.215.0/24,no-resolve
+IP-CIDR,45.149.156.82/32,no-resolve
+
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
