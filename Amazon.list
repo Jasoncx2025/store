@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,amazon.fastly-edge.com
 DOMAIN-SUFFIX,aux.pv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,twdcgrid.com
+DOMAIN-SUFFIX,amazon.dev
 
 # NAME: Amazon
 # AUTHOR: blackmatrix7
